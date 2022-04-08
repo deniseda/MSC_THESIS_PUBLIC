@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2395	0.02	Taurine
+1	2585	0.02	4-Oxoproline
+2	2654	0.02	Mesaconic acid
+3	3128	0.02	L-Threonic acid
+4	3990	0.02	Unknown
+5	4226	0.02	Unknown
+6	5483	0.02	D-(-)-Mannitol
+7	6078	0.02	Citric acid
+8	6292	0.02	Unknown
+9	7624	0.02	Unknown
+10	8121	0.04	Unknown
+11	9689	0.02	Unknown
+12	9771	0.02	Unknown
+13	10143	0.02	Unknown
+14	10465	0.02	w/o MS2:3-(2,6-dihydroxyphenyl)-4-hydroxy-6-methyl-3H-2-benzofuran-1-one
+15	10522	0.02	Unknown
+16	10815	0.02	9Z,12Z-Linoleic acid (NMR)
+17	11341	0.02	Unknown
+18	11575	0.02	Unknown
+19	12040	0.02	Unknown
+20	12266	0.02	Unknown
+21	13786	0.02	Unknown
+22	14465	0.02	w/o MS2:Perfluorobutane sulfonamido amine
+23	14517	0.02	Unknown
+24	14806	0.02	Unknown
+25	14964	0.02	Unknown
+26	15046	0.02	Unknown
+27	15131	0.02	Unknown
+28	15592	0.02	Unknown
+29	15598	0.02	w/o MS2:[(2R)-2-[(E,2S,4R)-4,6-dimethyloct-6-en-2-yl]-6-oxo-2,3-dihydropyran-3-yl] (2E,4E,6S)-8-hydroxy-6-(hydroxymethyl)-4-methylocta-2,4-dienoate
+30	15621	0.02	Unknown
+31	15921	0.02	Unknown
+32	15984	0.02	Unknown
+33	16031	0.02	Unknown
+34	16048	0.02	Unknown
+35	16140	0.02	Unknown
+36	16144	0.02	Unknown
+37	16173	0.02	glycocholic acid
+38	16486	0.02	Unknown
+39	16587	0.02	Unknown
+40	17376	0.02	Unknown
+41	17423	0.02	Unknown
+42	17481	0.02	LPC 18:2;PlaSMA ID-1554
+43	17575	0.02	Unknown
+44	17851	0.02	Unknown
+45	17871	0.02	Unknown
+46	17942	0.02	Unknown
+47	18015	0.02	Unknown
+48	18171	0.02	Unknown

@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	590	0.02	Unknown
+1	718	0.02	Unknown
+2	759	0.02	Unknown
+3	1114	0.02	Unknown
+4	1401	0.02	Unknown
+5	1419	0.02	Unknown
+6	1448	0.02	Unknown
+7	1707	0.04	Unknown
+8	3999	0.02	Unknown
+9	4009	0.02	Unknown
+10	5679	0.02	Unknown
+11	8086	0.02	w/o MS2:L-Phenylalanine
+12	8549	0.02	w/o MS2:353 - 3,4-Dihydroxyphenylglycol
+13	9013	0.02	w/o MS2:trans-Aconitic acid
+14	9141	0.02	Unknown
+15	9202	0.02	Arginine
+16	9416	0.02	Unknown
+17	9457	0.02	w/o MS2:C10H11NO2;PlaSMA ID-458
+18	10122	0.02	Unknown
+19	10627	0.02	w/o MS2:Citric acid
+20	10935	0.02	Unknown
+21	11045	0.02	Unknown
+22	11103	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-622
+23	11518	0.02	Unknown
+24	11542	0.02	Unknown
+25	11720	0.02	N3,N4-Dimethyl-L-arginine
+26	12215	0.02	w/o MS2:AZELAIC ACID
+27	12777	0.04	Unknown
+28	15309	0.02	w/o MS2:Matrine
+29	15362	0.02	Unknown
+30	15560	0.02	Unknown
+31	16347	0.02	Unknown
+32	16889	0.02	Unknown
+33	17269	0.02	Unknown
+34	17859	0.02	Unknown
+35	17943	0.02	Unknown
+36	19263	0.02	w/o MS2:ursodeoxycholic acid
+37	21149	0.02	Unknown
+38	21815	0.02	Unknown
+39	22044	0.02	Unknown
+40	22356	0.02	Unknown
+41	23047	0.02	Unknown
+42	23088	0.02	Unknown
+43	23378	0.02	Unknown
+44	23451	0.02	Unknown
+45	24203	0.02	Unknown
+46	25362	0.02	Unknown
+47	26640	0.02	Unknown

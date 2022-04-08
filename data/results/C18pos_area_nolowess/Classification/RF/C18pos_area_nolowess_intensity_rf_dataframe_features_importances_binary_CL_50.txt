@@ -1,0 +1,51 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	91	0.02	Unknown
+1	572	0.02	Unknown
+2	1008	0.02	Unknown
+3	1724	0.02	Unknown
+4	4026	0.02	Unknown
+5	4280	0.02	w/o MS2:Nicotinic acid
+6	5857	0.02	Unknown
+7	6457	0.02	Unknown
+8	6621	0.02	Unknown (carbon number 5);PlaSMA ID-185
+9	7432	0.02	Unknown
+10	8991	0.02	Unknown
+11	9012	0.02	w/o MS2:trans-Aconitic acid
+12	9599	0.02	Unknown
+13	10834	0.02	w/o MS2:4-Aminohippuric acid
+14	11242	0.02	Unknown
+15	11738	0.02	w/o MS2:Cinnamoylglycine
+16	11888	0.02	Unknown
+17	12215	0.02	w/o MS2:AZELAIC ACID
+18	12233	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-756
+19	12459	0.02	Unknown
+20	12471	0.02	w/o MS2:Citric acid
+21	12586	0.02	Unknown
+22	13902	0.02	Unknown
+23	14326	0.02	Unknown
+24	14531	0.02	Unknown
+25	14669	0.02	Unknown
+26	14671	0.02	Unknown
+27	14842	0.02	Unknown
+28	15150	0.02	Unknown
+29	15211	0.02	Unknown
+30	15325	0.02	Unknown
+31	15998	0.02	Unknown
+32	16085	0.02	Unknown
+33	16392	0.02	w/o MS2:N2-Methylguanosine
+34	17143	0.02	Unknown
+35	17172	0.02	Unknown
+36	18625	0.02	Unknown
+37	19389	0.02	Unknown
+38	20006	0.02	w/o MS2:Cholic acid
+39	20015	0.02	Unknown
+40	21046	0.02	Unknown
+41	21462	0.02	Unknown
+42	21590	0.02	Unknown
+43	21843	0.02	Unknown
+44	21916	0.02	Unknown
+45	23591	0.02	Unknown
+46	23617	0.02	Unknown
+47	23646	0.02	Unknown
+48	24873	0.02	Unknown
+49	26457	0.02	Unknown

@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1083	0.06	Unknown
+1	5695	0.02	Unknown
+2	9709	0.03	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+3	11386	0.02	Unknown
+4	11801	0.02	Unknown
+5	12220	0.02	w/o MS2:Unknown (carbon number 18);PlaSMA ID-661
+6	12753	0.02	w/o MS2:icos-19-ene-1,2,4-triol
+7	13487	0.03	Unknown
+8	15284	0.02	w/o MS2:C20H34O9;PlaSMA ID-1074
+9	15475	0.02	w/o MS2:C21H32O9;PlaSMA ID-1102

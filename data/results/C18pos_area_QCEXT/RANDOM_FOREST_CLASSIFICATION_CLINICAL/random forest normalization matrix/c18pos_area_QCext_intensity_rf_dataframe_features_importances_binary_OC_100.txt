@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	5642	0.02	Unknown
+1	6241	0.02	Unknown
+2	7385	0.02	w/o MS2:423 - (+/-)-2-Hydroxy-4-(methylthio)butanoic acid
+3	9982	0.03	Unknown
+4	10928	0.02	Unknown
+5	11774	0.02	Unknown
+6	13989	0.02	Unknown
+7	24535	0.02	Unknown
+8	26360	0.02	Unknown
+9	26409	0.02	Unknown

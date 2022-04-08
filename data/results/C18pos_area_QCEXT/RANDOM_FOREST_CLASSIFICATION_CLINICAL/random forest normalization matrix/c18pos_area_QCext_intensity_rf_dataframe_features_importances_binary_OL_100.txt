@@ -1,0 +1,15 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	3933	0.05	w/o MS2:443 - Caproic acid
+1	7937	0.02	w/o MS2:4,5-dihydroxy-3-propylcyclopent-2-en-1-one
+2	9266	0.02	w/o MS2:2-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetic acid
+3	9955	0.03	Unknown
+4	9956	0.02	Unknown
+5	9957	0.02	Unknown
+6	10232	0.02	Unknown
+7	12014	0.02	w/o MS2:3,7-dimethyl-6-octenyl acetate
+8	13462	0.02	Texanol
+9	16181	0.02	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+10	16506	0.02	Citroflex 2
+11	22360	0.02	424 - Chenodeoxycholic acid glycine conjugate
+12	22818	0.02	w/o MS2:Corosolic acid
+13	24102	0.03	w/o MS2:Putative Chenodeoxycholic acid Phenylalanine conjugate

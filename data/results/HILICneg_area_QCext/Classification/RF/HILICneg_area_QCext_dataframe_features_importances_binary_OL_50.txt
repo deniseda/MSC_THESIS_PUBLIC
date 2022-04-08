@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1331	0.02	w/o MS2:Pyruvic acid
+1	2318	0.02	Unknown
+2	2822	0.04	Unknown
+3	3273	0.02	3-Hydroxybutyric acid
+4	3287	0.02	2-Hydroxyisobutyric acid;LC-ESI-QTOF;MS2;CE
+5	3295	0.02	HydroxyButyric acid
+6	6059	0.02	w/o MS2:Taurine
+7	7118	0.02	w/o MS2:DL-Malic acid
+8	8812	0.02	Unknown
+9	9542	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-110
+10	10098	0.02	Unknown
+11	10741	0.02	1-Methylxanthine
+12	11249	0.02	trans-Aconitic acid;LC-ESI-QTOF;MS2;CE
+13	12185	0.02	Unknown
+14	12391	0.02	Unknown
+15	12857	0.02	Unknown
+16	13246	0.02	w/o MS2:3-methyl-3,4-dihydro-1H-1,4-benzodiazepine-2,5-dione
+17	14713	0.02	Unknown
+18	14884	0.02	Unknown
+19	15092	0.02	TRYPTOPHAN
+20	15303	0.02	Unknown
+21	15582	0.02	Unknown
+22	16635	0.02	Unknown
+23	18669	0.02	Unknown
+24	19145	0.02	Unknown
+25	19694	0.02	Ketoprofen
+26	21363	0.02	Unknown
+27	21948	0.02	Unknown
+28	22187	0.02	Unknown
+29	22543	0.02	Unknown
+30	23328	0.02	Unknown
+31	23335	0.02	Unknown
+32	24176	0.02	w/o MS2:methadone-d9
+33	25690	0.04	w/o MS2:methyl 2-(2,6-dihydroxy-4-methylbenzoyl)-3,5-dimethoxybenzoate
+34	26647	0.02	Unknown
+35	27877	0.02	Unknown
+36	27997	0.02	Unknown
+37	28448	0.02	Unknown
+38	29189	0.02	Unknown
+39	29560	0.02	Unknown
+40	30278	0.02	Unknown
+41	30370	0.02	Unknown
+42	30986	0.02	Unknown
+43	32359	0.02	Unknown
+44	33487	0.04	Unknown
+45	34503	0.02	w/o MS2:Phosphatidylethanolamine 16
+46	34543	0.02	w/o MS2:Phosphatidylethanolamine 16

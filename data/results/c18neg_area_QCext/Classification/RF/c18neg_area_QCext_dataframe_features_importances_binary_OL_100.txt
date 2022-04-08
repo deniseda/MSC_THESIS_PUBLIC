@@ -1,0 +1,10 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1083	0.02	Unknown
+1	9780	0.03	w/o MS2:L-Ascorbic acid 2-sulfate
+2	10664	0.02	Unknown
+3	11191	0.02	w/o MS2:NCGC00380665-01_C16H18O5_(8E)-11,13-Dihydroxy-4-methyl-4,5,6,7-tetrahydro-2H-3-benzoxacyclododecine-2,10(1H)-dione
+4	12430	0.02	Unknown
+5	13745	0.03	w/o MS2:5-hydroxy-3,6,7-trimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one
+6	14459	0.02	Unknown
+7	15284	0.02	w/o MS2:C20H34O9;PlaSMA ID-1074
+8	16554	0.02	Unknown

@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	363	0.04	Unknown
+1	2318	0.04	Unknown
+2	15610	0.04	Unknown
+3	16872	0.02	Unknown
+4	18842	0.04	Unknown
+5	18857	0.02	Unknown
+6	20271	0.02	Unknown
+7	21067	0.02	Unknown
+8	21068	0.02	Unknown
+9	21227	0.02	w/o MS2:gamma-Glutamylglutamine
+10	21363	0.05	Unknown
+11	23328	0.02	Unknown
+12	24709	0.03	Unknown
+13	30324	0.02	Unknown
+14	31178	0.04	Unknown

@@ -1,0 +1,10 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	723	0.02	Unknown
+1	4784	0.02	3-METHYLHISTAMINE
+2	8309	0.02	w/o MS2:Acetyl-?-methylcholine
+3	8402	0.02	Unknown
+4	11747	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-622
+5	19490	0.02	Unknown
+6	22690	0.02	w/o MS2:NCGC00385231-01_C26H44O8_{(1S,2R,4aS,5R,8aS)-2-Hydroxy-5-[(3E)-5-hydroxy-3-methyl-3-penten-1-yl]-1,4a-dimethyl-6-methylenedecahydro-1-naphthalenyl}methyl beta-D-threo-hexopyranoside
+7	25728	0.02	PEG n14
+8	27792	0.02	Unknown

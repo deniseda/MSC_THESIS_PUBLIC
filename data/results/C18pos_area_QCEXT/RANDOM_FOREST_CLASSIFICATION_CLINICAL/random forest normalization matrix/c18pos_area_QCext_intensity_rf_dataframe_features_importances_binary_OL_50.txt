@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	178	0.02	386 - 2-Methylpropanal
+1	815	0.02	w/o MS2:3-Methylpyrazole
+2	3933	0.02	w/o MS2:443 - Caproic acid
+3	3937	0.02	w/o MS2:443 - Caproic acid
+4	4258	0.02	w/o MS2:MLS001066369-01!Benzamidine
+5	4370	0.02	w/o MS2:2,4-Diaminotoluene
+6	5142	0.02	Isoquinoline
+7	6325	0.02	Unknown
+8	7110	0.02	Unknown
+9	7937	0.02	w/o MS2:4,5-dihydroxy-3-propylcyclopent-2-en-1-one
+10	8539	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+11	9475	0.02	L-Phenylalanine (13C6, 99%) (light)
+12	9691	0.02	w/o MS2:Gaultherin
+13	9794	0.02	w/o MS2:1-Methylsulfinylbutenyl isothiocyante;PlaSMA ID-426
+14	9906	0.02	w/o MS2:herniarin
+15	9955	0.02	Unknown
+16	9956	0.04	Unknown
+17	10680	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-523
+18	10695	0.02	w/o MS2:2-hydroxy-1-isopentyl-4-methyl-1H-imidazol-5(4H)-one
+19	11398	0.02	DEET
+20	11943	0.02	w/o MS2:Ascorbic acid
+21	12093	0.02	Unknown
+22	13461	0.02	Texanol
+23	13462	0.02	Texanol
+24	14294	0.02	Prolylleucine
+25	14295	0.02	Proline-hydroxyproline
+26	14535	0.02	Unknown
+27	15335	0.02	w/o MS2:4-methoxy-9H-xanthen-9-one
+28	16036	0.02	w/o MS2:(1S,2R,9R,10S,12S)-12-hydroxy-7,15-diazatetracyclo[7.7.1.0^{2,7}.0^{10,15}]heptadecan-6-one
+29	16048	0.02	Unknown
+30	16120	0.02	Unknown
+31	16255	0.04	w/o MS2:(E)-2-decylpent-2-enedioic acid
+32	16825	0.02	Unknown
+33	17077	0.02	Unknown
+34	17845	0.02	w/o MS2:8-Shogaol
+35	20410	0.02	Unknown
+36	20517	0.04	Unknown
+37	20714	0.02	Unknown
+38	21296	0.02	w/o MS2:Fisherellin A
+39	22542	0.02	Unknown
+40	22711	0.02	w/o MS2:(3S,6S,6aR,7R,7aR,8S,9R,10S,11aR,12R,13S,14R)-1-ethyl-3-(hydroxymethyl)-6,8,10,13-tetramethoxytetradecahydro-1H-3,6a,12-(epiethane[1,1,2]triyl)-7,9-methanonaphtho[2,3-b]azocine-11a,12-diol
+41	23100	0.02	Unknown
+42	23308	0.04	Unknown
+43	23433	0.02	Unknown
+44	23559	0.02	Unknown
+45	27470	0.02	Unknown

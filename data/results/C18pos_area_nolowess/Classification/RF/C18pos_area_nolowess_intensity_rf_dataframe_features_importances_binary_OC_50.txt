@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	934	0.02	w/o MS2:2-Methylpyrrolidine;CE10;RGHPCLZJAFCTIK-UHFFFAOYSA-N
+1	1852	0.02	Unknown
+2	2037	0.02	Unknown
+3	2129	0.02	Unknown
+4	2259	0.02	Unknown
+5	2724	0.02	Unknown
+6	3930	0.02	Unknown
+7	4171	0.02	w/o MS2:Benzoic acid
+8	4601	0.02	Unknown
+9	5234	0.02	Unknown
+10	5826	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-156
+11	7873	0.04	Unknown
+12	8028	0.02	w/o MS2:Unknown (carbon number 9);PlaSMA ID-305
+13	9013	0.02	w/o MS2:trans-Aconitic acid
+14	9154	0.02	w/o MS2:cis-Aconitate
+15	11738	0.02	w/o MS2:Cinnamoylglycine
+16	11825	0.02	Tryptophan;LC-ESI-QTOF;MS2;CE
+17	12319	0.02	Unknown
+18	13013	0.02	Unknown
+19	13252	0.02	w/o MS2:alpha-oxo-1h-indole-3-propanoic acid
+20	13295	0.02	Unknown
+21	14090	0.02	Unknown
+22	14842	0.02	Unknown
+23	15153	0.02	w/o MS2:Arabinofuranosyluracil
+24	15967	0.02	Unknown
+25	15971	0.02	w/o MS2:FORMONONETIN
+26	16168	0.02	Unknown
+27	16504	0.02	Unknown
+28	16841	0.02	Unknown
+29	16889	0.02	Unknown
+30	17173	0.02	Unknown
+31	17270	0.02	Unknown
+32	17275	0.02	Unknown
+33	17473	0.02	Unknown
+34	17649	0.02	Unknown
+35	17717	0.02	Unknown
+36	17969	0.02	Unknown
+37	18294	0.02	Unknown
+38	18777	0.02	w/o MS2:NCGC00169701-03_C20H22O6_2(3H)-Furanone, dihydro-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]-, (3R,4R)-
+39	19468	0.02	Unknown
+40	20913	0.02	Unknown
+41	22146	0.02	Unknown
+42	23047	0.02	Unknown
+43	23320	0.02	Unknown
+44	24874	0.02	Unknown
+45	25258	0.02	Unknown
+46	25572	0.02	Unknown
+47	26204	0.02	Unknown
+48	27574	0.02	Unknown

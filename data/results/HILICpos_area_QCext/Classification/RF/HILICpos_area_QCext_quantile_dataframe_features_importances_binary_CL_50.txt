@@ -1,0 +1,46 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2073	0.02	?-Valerolactam
+1	2081	0.02	?-Valerolactam
+2	2831	0.02	87 - Diethanolamine
+3	2833	0.02	DIETHANOLAMINE
+4	4633	0.02	Unknown
+5	5248	0.02	Unknown
+6	6501	0.02	Unknown
+7	8574	0.04	w/o MS2:2,2,6,6-Tetramethyl-4-piperidinol
+8	8825	0.02	Unknown
+9	8826	0.04	Unknown
+10	9084	0.02	w/o MS2:4-hydroxycoumarin
+11	11885	0.02	w/o MS2:N6-Acetyl-L-lysine
+12	12009	0.02	Unknown
+13	12459	0.04	Unknown
+14	13672	0.02	Unknown
+15	14221	0.02	Citric acid
+16	16360	0.02	Unknown
+17	16790	0.02	w/o MS2:FenoprofenCa
+18	17610	0.02	Unknown
+19	17815	0.02	Unknown
+20	18571	0.02	w/o MS2:NCGC00386092-01_C11H18N2O4_
+21	19606	0.02	Unknown
+22	20461	0.02	Unknown
+23	21101	0.02	Unknown
+24	21977	0.02	w/o MS2:Sodium Houttuyfonate
+25	23070	0.04	Unknown
+26	23259	0.02	Unknown
+27	23260	0.02	Unknown
+28	25124	0.02	Unknown
+29	26240	0.02	Unknown
+30	27366	0.02	w/o MS2:2-[5-[2-[2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoyloxy]propyl]oxolan-2-yl]propanoic acid
+31	27703	0.02	w/o MS2:monolinolein
+32	27770	0.02	Unknown
+33	28035	0.02	Unknown
+34	28130	0.04	w/o MS2:Citroflex A-4
+35	29102	0.02	w/o MS2:5,7-dihydroxy-3,6-dimethoxy-2-(3,4,5-trimethoxyphenyl)-4H-chromen-4-one
+36	29450	0.02	w/o MS2:Pellasoren A
+37	30059	0.02	Unknown
+38	30205	0.02	Unknown
+39	30355	0.02	Unknown
+40	30488	0.02	Unknown
+41	30785	0.02	Unknown
+42	31011	0.02	w/o MS2:420 - Glycocholic acid
+43	31656	0.02	Unknown
+44	32410	0.02	w/o MS2:(2R,2'S,4'aS,5'R,5''S,6'R,8'aS)-2'-(acetyloxy)-5''-(furan-3-yl)-6'-methyl-2'',8'-dioxo-octahydrodispiro[oxirane-2,1'-naphthalene-5',3''-oxolane]-8'a-ylmethyl acetate

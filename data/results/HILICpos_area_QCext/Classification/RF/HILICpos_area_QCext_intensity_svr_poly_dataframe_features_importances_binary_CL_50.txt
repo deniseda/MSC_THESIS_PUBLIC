@@ -1,0 +1,46 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1149	0.02	Unknown
+1	1509	0.02	Unknown
+2	1643	0.02	w/o MS2:4-Picoline
+3	4363	0.02	Unknown
+4	8718	0.02	w/o MS2:TRIGONELLINE
+5	8825	0.04	Unknown
+6	10296	0.02	w/o MS2:N-Acetylornithine
+7	12009	0.02	Unknown
+8	12253	0.02	w/o MS2:DL-Isocitric acid;LC-ESI-ITFT;MS2;m/z
+9	12826	0.02	w/o MS2:NCGC00380778-01_C9H14N2O3_(3S,8aS)-3-[(1R)-1-Hydroxyethyl]hexahydropyrrolo[1,2-a]pyrazine-1,4-dione
+10	14211	0.04	Unknown
+11	14443	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-807
+12	16250	0.02	Unknown
+13	16734	0.02	Unknown
+14	17797	0.02	w/o MS2:7,2'-Dihydroxyflavone
+15	18084	0.02	Unknown
+16	18168	0.02	Unknown
+17	19625	0.02	Unknown
+18	19995	0.02	w/o MS2:2,3,4'-Trihydroxy-4-Methoxybenzophenone
+19	20883	0.02	Unknown
+20	20885	0.02	Unknown
+21	21101	0.02	Unknown
+22	21868	0.02	Unknown
+23	22920	0.02	Unknown
+24	23075	0.02	w/o MS2:Larixol
+25	23908	0.02	Unknown
+26	26602	0.02	Unknown
+27	26603	0.02	Unknown
+28	26891	0.02	Unknown
+29	28130	0.02	w/o MS2:Citroflex A-4
+30	28259	0.02	w/o MS2:MLS001140391-01!
+31	28964	0.02	w/o MS2:5-[1,2,4a-trimethyl-5-(3-methylbutanoyloxymethyl)-2,3,4,7,8,8a-hexahydronaphthalen-1-yl]-3-methylpentanoic acid
+32	30205	0.04	Unknown
+33	30358	0.02	Unknown
+34	30364	0.06	Unknown
+35	30371	0.02	Unknown
+36	30697	0.02	Unknown
+37	30780	0.02	Unknown
+38	31273	0.02	Unknown
+39	32176	0.02	Unknown
+40	34301	0.02	Unknown
+41	34653	0.02	Unknown
+42	35058	0.02	w/o MS2:Arenobufagin 3-hemisuberate
+43	37844	0.02	Unknown
+44	40477	0.02	Unknown

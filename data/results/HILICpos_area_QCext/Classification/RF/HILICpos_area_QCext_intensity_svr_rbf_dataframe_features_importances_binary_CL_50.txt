@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2084	0.04	N-Methyl-2-pyrrolidone
+1	3938	0.02	151 - Norvaline
+2	4249	0.02	w/o MS2:N,N-Dimethylaniline
+3	7224	0.02	194 - 4-Trimethylammoniobutanoic acid
+4	7726	0.02	Unknown
+5	8826	0.02	Unknown
+6	8909	0.02	3-hydroxy-1,2-dimethylpyridin-4(1H)-one
+7	11887	0.02	w/o MS2:N6-Acetyl-L-lysine
+8	12571	0.02	w/o MS2:Pesticide1_Omethoate_C5H12NO4PS_
+9	13454	0.02	Unknown
+10	14784	0.04	w/o MS2:N-Acetyl-D-glucosamine;CE0;OVRNDRQMDRJTHS-RTRLPJTCSA-N
+11	15123	0.02	Unknown
+12	16749	0.02	Unknown
+13	17344	0.02	w/o MS2:7-prenyl-theophylline
+14	17593	0.02	Unknown
+15	17603	0.02	Unknown
+16	17815	0.02	Unknown
+17	18072	0.02	Unknown
+18	18274	0.02	w/o MS2:gamma-Glutamylleucine
+19	18337	0.02	w/o MS2:Mycosporine serinol
+20	18537	0.02	Unknown
+21	18571	0.02	w/o MS2:NCGC00386092-01_C11H18N2O4_
+22	19528	0.02	Unknown
+23	19606	0.02	Unknown
+24	20883	0.02	Unknown
+25	21101	0.02	Unknown
+26	23259	0.02	Unknown
+27	23262	0.02	Unknown
+28	23745	0.02	w/o MS2:N-Acetylneuraminic acid
+29	26268	0.02	w/o MS2:Sanguinarium chloride
+30	27703	0.02	w/o MS2:monolinolein
+31	28119	0.02	Unknown
+32	28656	0.02	Unknown
+33	28964	0.02	w/o MS2:5-[1,2,4a-trimethyl-5-(3-methylbutanoyloxymethyl)-2,3,4,7,8,8a-hexahydronaphthalen-1-yl]-3-methylpentanoic acid
+34	30358	0.02	Unknown
+35	30854	0.02	Unknown
+36	30868	0.02	Unknown
+37	31656	0.02	Unknown
+38	35366	0.02	Unknown
+39	35761	0.02	Unknown
+40	36055	0.02	Unknown
+41	36562	0.02	Unknown
+42	37279	0.02	Unknown
+43	37870	0.02	Unknown
+44	38846	0.02	Unknown
+45	38918	0.02	Unknown
+46	40582	0.02	Unknown
+47	40778	0.02	Unknown

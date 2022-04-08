@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	940	0.02	w/o MS2:2-Methylpyrrolidine;CE0;RGHPCLZJAFCTIK-UHFFFAOYSA-N
+1	1963	0.04	w/o MS2:Unknown (carbon number 5);PlaSMA ID-14
+2	2037	0.02	Unknown
+3	2701	0.02	Unknown
+4	3553	0.04	w/o MS2:306 - 5-Aminopentanoic acid
+5	4251	0.02	Unknown
+6	4354	0.02	Unknown
+7	4514	0.02	Unknown
+8	4949	0.02	w/o MS2:Unknown (carbon number 6);PlaSMA ID-97
+9	5563	0.02	Unknown
+10	5857	0.02	Unknown
+11	6262	0.02	Unknown
+12	6899	0.02	w/o MS2:Paracetamol
+13	6941	0.02	Unknown
+14	6962	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-222
+15	9419	0.02	Unknown
+16	9911	0.02	Unknown
+17	10821	0.02	Unknown
+18	11139	0.02	w/o MS2:502 - Vanillylmandelic acid
+19	11239	0.02	Unknown
+20	11560	0.02	Unknown
+21	13700	0.02	Unknown
+22	13798	0.02	Unknown
+23	14263	0.02	Unknown
+24	14805	0.02	Unknown
+25	15283	0.02	Unknown
+26	16173	0.02	Unknown
+27	16243	0.02	w/o MS2:baicalein
+28	16560	0.02	Unknown
+29	17094	0.02	Unknown
+30	17275	0.02	Unknown
+31	17575	0.02	Unknown
+32	17711	0.02	Unknown
+33	17712	0.02	Unknown
+34	18504	0.02	Unknown
+35	19400	0.02	Unknown
+36	19422	0.02	Unknown
+37	20720	0.02	Unknown
+38	21073	0.02	Unknown
+39	21670	0.02	Unknown
+40	22157	0.02	Unknown
+41	22285	0.02	LPC 18:2;PlaSMA ID-2753
+42	22327	0.02	Unknown
+43	22676	0.02	Unknown
+44	23016	0.02	Unknown
+45	23320	0.02	Unknown
+46	24874	0.02	Unknown
+47	25200	0.02	Unknown

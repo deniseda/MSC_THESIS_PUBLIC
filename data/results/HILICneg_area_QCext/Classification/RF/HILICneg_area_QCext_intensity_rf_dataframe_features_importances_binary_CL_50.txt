@@ -1,0 +1,45 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1322	0.02	Pyruvic acid
+1	1993	0.04	Unknown
+2	4071	0.02	Unknown (carbon number 5);PlaSMA ID-18
+3	11073	0.02	373 - Beta-Glycerophosphoric acid
+4	11254	0.02	w/o MS2:Aconitic Acid
+5	11269	0.02	w/o MS2:trans-Aconitic acid
+6	11300	0.02	Aconitic Acid
+7	13597	0.04	Citric acid
+8	13635	0.02	w/o MS2:Citric acid
+9	15005	0.02	Unknown
+10	16397	0.02	Unknown
+11	17738	0.02	w/o MS2:8-Methylsulfinyloctyl isothiocyanate
+12	18032	0.02	(4S,5Z,6S)-4-(2-methoxy-2-oxoethyl)-5-[2-[(E)-3-phenylprop-2-enoyl]oxyethylidene]-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylic acid
+13	18741	0.02	Unknown
+14	18852	0.02	Unknown
+15	20173	0.02	w/o MS2:Bromacil;LC-ESI-ITFT;MS2;CE
+16	20227	0.02	Unknown
+17	21671	0.04	Unknown
+18	21889	0.02	Unknown
+19	21950	0.02	Unknown
+20	21990	0.04	Unknown
+21	22860	0.02	Unknown
+22	23139	0.02	Unknown
+23	23242	0.02	Unknown
+24	23671	0.02	w/o MS2:N-Acetylneuraminic acid
+25	23904	0.02	Unknown
+26	24277	0.02	Unknown
+27	24840	0.02	Unknown
+28	24983	0.04	Unknown
+29	25420	0.02	Unknown
+30	28970	0.02	Unknown
+31	29004	0.04	Unknown
+32	30042	0.02	Unknown
+33	30468	0.02	Unknown
+34	30493	0.02	Unknown
+35	30775	0.02	Unknown
+36	31360	0.02	Unknown
+37	32084	0.02	Unknown
+38	33031	0.02	Unknown
+39	34045	0.02	Unknown
+40	34643	0.02	Unknown
+41	34972	0.02	Unknown
+42	35108	0.02	Unknown
+43	35323	0.02	Unknown

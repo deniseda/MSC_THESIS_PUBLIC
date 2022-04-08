@@ -1,0 +1,8 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	4113	0.02	Unknown (carbon number 5);PlaSMA ID-18
+1	13563	0.03	5 - Citric acid
+2	18070	0.02	Unknown
+3	20173	0.02	w/o MS2:Bromacil;LC-ESI-ITFT;MS2;CE
+4	28343	0.02	Unknown
+5	29295	0.02	Unknown
+6	31989	0.02	Unknown

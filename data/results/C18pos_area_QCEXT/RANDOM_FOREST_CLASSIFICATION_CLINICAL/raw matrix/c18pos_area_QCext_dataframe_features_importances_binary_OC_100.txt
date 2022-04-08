@@ -1,0 +1,13 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1352	0.02	Unknown
+1	7073	0.02	Unknown
+2	7828	0.02	L-Histidine
+3	8166	0.02	1,5-Naphthalenediamine
+4	12531	0.02	Tryptophan
+5	16365	0.02	Unknown
+6	18612	0.02	Unknown
+7	21775	0.02	Unknown
+8	21930	0.02	Unknown
+9	24535	0.02	Unknown
+10	25074	0.02	Unknown
+11	28846	0.02	Unknown

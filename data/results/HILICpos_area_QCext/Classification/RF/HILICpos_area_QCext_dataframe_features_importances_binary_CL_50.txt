@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	583	0.02	Unknown
+1	4363	0.02	Unknown
+2	5248	0.02	Unknown
+3	6495	0.02	Unknown
+4	6721	0.02	Unknown
+5	10621	0.02	w/o MS2:Daphnetin
+6	11886	0.04	w/o MS2:TMK
+7	13039	0.02	Unknown
+8	13093	0.02	Unknown
+9	13673	0.02	Unknown
+10	14784	0.02	w/o MS2:N-Acetyl-D-glucosamine;CE0;OVRNDRQMDRJTHS-RTRLPJTCSA-N
+11	15609	0.02	Leucylproline
+12	15741	0.02	w/o MS2:Citric acid
+13	16218	0.02	Unknown
+14	16229	0.02	Unknown
+15	16246	0.02	Unknown
+16	16360	0.02	Unknown
+17	16734	0.02	Unknown
+18	17532	0.02	w/o MS2:Unknown (carbon number 9);PlaSMA ID-1064
+19	17600	0.02	Unknown
+20	17603	0.02	Unknown
+21	19607	0.02	Unknown
+22	20549	0.02	w/o MS2:dehydrocurvularin
+23	20552	0.02	w/o MS2:dehydrocurvularin
+24	21762	0.02	w/o MS2:(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydro-4H-chromen-4-one
+25	21868	0.02	Unknown
+26	22920	0.02	Unknown
+27	23908	0.02	Unknown
+28	26247	0.02	Unknown
+29	26621	0.02	Unknown
+30	26917	0.02	Unknown
+31	27231	0.02	Unknown
+32	28130	0.02	w/o MS2:Citroflex A-4
+33	28317	0.04	Unknown
+34	29102	0.02	w/o MS2:5,7-dihydroxy-3,6-dimethoxy-2-(3,4,5-trimethoxyphenyl)-4H-chromen-4-one
+35	29331	0.02	Unknown
+36	30205	0.02	Unknown
+37	30353	0.02	Unknown
+38	30358	0.02	Unknown
+39	30364	0.02	Unknown
+40	30371	0.02	Unknown
+41	30785	0.02	Unknown
+42	30786	0.02	Unknown
+43	33044	0.04	Unknown
+44	36983	0.02	Unknown
+45	39084	0.02	Unknown
+46	40937	0.02	Unknown

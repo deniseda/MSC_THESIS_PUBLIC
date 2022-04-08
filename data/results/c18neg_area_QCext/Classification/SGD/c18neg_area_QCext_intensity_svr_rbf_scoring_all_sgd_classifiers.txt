@@ -1,0 +1,36 @@
+onset vs control
+Accuracy: 0.900
+Balanced accuracy: 0.875
+F1 score: 0.897
+
+Accuracy: 1.000
+Balanced accuracy: 1.000
+F1 score: 1.000
+
+onset vs local
+Accuracy: 0.700
+Balanced accuracy: 0.700
+F1 score: 0.697
+
+Accuracy: 0.500
+Balanced accuracy: 0.500
+F1 score: 0.333
+
+control vs local
+Accuracy: 0.889
+Balanced accuracy: 0.875
+F1 score: 0.886
+
+Accuracy: 1.000
+Balanced accuracy: 1.000
+F1 score: 1.000
+
+onset vs control-local
+Accuracy: 0.867
+Balanced accuracy: 0.861
+F1 score: 0.867
+
+Accuracy: 0.667
+Balanced accuracy: 0.583
+F1 score: 0.584
+

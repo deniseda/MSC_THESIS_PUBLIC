@@ -1,0 +1,13 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	878	0.03	Unknown
+1	1083	0.03	Unknown
+2	9381	0.02	Unknown
+3	9709	0.02	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+4	10581	0.02	w/o MS2:gamma-Glutamylglutamine
+5	11997	0.03	w/o MS2:C12-AE1S (TENTATIVE)
+6	13746	0.02	w/o MS2:Corymbosin
+7	15296	0.03	Unknown
+8	15845	0.03	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+9	16167	0.02	Unknown
+10	16368	0.02	Unknown
+11	16498	0.02	Unknown

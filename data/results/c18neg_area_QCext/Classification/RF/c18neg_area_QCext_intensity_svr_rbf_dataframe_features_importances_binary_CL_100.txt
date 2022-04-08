@@ -1,0 +1,10 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	139	0.02	Unknown
+1	761	0.02	w/o MS2:Phosphoric acid
+2	4883	0.03	Suberic acid
+3	6280	0.02	Unknown
+4	16259	0.02	Unknown
+5	17013	0.02	Unknown
+6	17731	0.02	Unknown
+7	18050	0.02	Unknown
+8	18236	0.02	Unknown

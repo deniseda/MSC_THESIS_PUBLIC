@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	255	0.02	Unknown
+1	878	0.02	Unknown
+2	1272	0.02	3-Hydroxybutyric acid
+3	1574	0.02	Unknown
+4	3434	0.02	Unknown
+5	3640	0.02	L-Glutamic acid;LC-ESI-QTOF;MS2;CE
+6	6078	0.04	Citric acid
+7	6093	0.02	Isocitrate
+8	6246	0.02	Unknown
+9	6666	0.02	Unknown
+10	6761	0.02	Unknown
+11	7180	0.02	Unknown
+12	8120	0.02	Unknown
+13	9037	0.02	Unknown
+14	9359	0.02	Unknown
+15	10068	0.02	Unknown
+16	10465	0.02	w/o MS2:3-(2,6-dihydroxyphenyl)-4-hydroxy-6-methyl-3H-2-benzofuran-1-one
+17	10483	0.02	16-Hydroxyhexadecanoic acid
+18	10522	0.02	Unknown
+19	10999	0.02	Unknown
+20	11053	0.02	Unknown
+21	11760	0.02	w/o MS2:Thymidine-3',5'-cyclic monophosphate  sodium salt
+22	11780	0.02	w/o MS2:Arachidonic acid;LC-ESI-QTOF;MS2;CE
+23	11826	0.02	Unknown
+24	12710	0.04	Unknown
+25	12770	0.02	Unknown
+26	12813	0.02	(15Z)-9,12,13-Trihydroxy-15-octadecenoic acid
+27	12991	0.02	Unknown
+28	13430	0.02	Unknown
+29	13717	0.02	Unknown
+30	14042	0.02	w/o MS2:(S,E)-2-(4,8-dimethylnona-3,7-dien-1-yl)-5-hydroxy-2-methyl-2H-chromene-7,8-dicarbaldehyde
+31	14611	0.02	Unknown
+32	15011	0.02	Unknown
+33	15646	0.02	Unknown
+34	15652	0.02	w/o MS2:Phosphatidylethanolamine lyso alkenyl 16
+35	15733	0.02	Unknown
+36	15735	0.02	Unknown
+37	15924	0.02	Unknown
+38	16297	0.02	Unknown
+39	16474	0.04	Unknown
+40	16713	0.02	Unknown
+41	17192	0.02	Unknown
+42	17575	0.02	Unknown
+43	17955	0.02	Unknown
+44	17996	0.02	Unknown
+45	18327	0.02	Unknown
+46	18584	0.02	Unknown

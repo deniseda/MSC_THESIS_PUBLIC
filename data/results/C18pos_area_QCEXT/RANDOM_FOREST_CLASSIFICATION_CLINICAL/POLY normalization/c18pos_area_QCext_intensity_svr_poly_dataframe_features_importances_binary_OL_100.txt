@@ -1,0 +1,19 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	3933	0.02	w/o MS2:443 - Caproic acid
+1	5781	0.01131020149995482	N-Benzylformamide
+2	7221	0.014814814814814814	Unknown
+3	7937	0.02	w/o MS2:4,5-dihydroxy-3-propylcyclopent-2-en-1-one
+4	9955	0.036966573178979195	Unknown
+5	9956	0.023472222222222224	Unknown
+6	9957	0.013958333333333335	Unknown
+7	10680	0.011476190476190475	w/o MS2:Unknown (carbon number 10);PlaSMA ID-523
+8	11265	0.010829714036644405	Unknown
+9	13461	0.012440355452525838	Texanol
+10	13857	0.013824304350620143	Diethyl phthalate
+11	16181	0.013027234753550545	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+12	16297	0.012995751979418041	Unknown
+13	16588	0.014523646779285877	w/o MS2:Dibutyl phthalate
+14	17281	0.013712837079912056	w/o MS2:NCGC00384680-01_C17H24O4_Bicyclo[7.2.0]undec-4-en-3-one, 11-[(acetyloxy)methyl]-4-(hydroxymethyl)-11-methyl-8-methylene-, (1R,4Z,9S)-
+15	24132	0.01056824640264538	Unknown
+16	24245	0.0195130274331955	w/o MS2:(2S,3R,5S,9R)-2,3-dihydroxy-14-(hydroxymethyl)-5,9-dimethyl-14-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}tetracyclo[11.2.1.0?,??.0?,?]hexadecane-5-carboxylic acid
+17	24336	0.01655222299250968	Unknown

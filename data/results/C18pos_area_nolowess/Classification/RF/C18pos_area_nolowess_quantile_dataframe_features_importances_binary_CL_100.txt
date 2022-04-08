@@ -1,0 +1,8 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1114	0.02	Unknown
+1	7432	0.02	Unknown
+2	8028	0.02	w/o MS2:Unknown (carbon number 9);PlaSMA ID-305
+3	9154	0.02	w/o MS2:cis-Aconitate
+4	16392	0.02	w/o MS2:N2-Methylguanosine
+5	17646	0.02	Unknown
+6	21908	0.02	Unknown

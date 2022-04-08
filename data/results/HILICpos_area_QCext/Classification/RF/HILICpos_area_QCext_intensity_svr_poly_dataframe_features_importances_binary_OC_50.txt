@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1575	0.02	Unknown
+1	2123	0.02	Cyclohexylamine
+2	4249	0.02	w/o MS2:N,N-Dimethylaniline
+3	4633	0.02	Unknown
+4	5243	0.02	L-PIPECOLIC ACID
+5	6189	0.02	w/o MS2:Trigonelline
+6	6202	0.02	Unknown (carbon number 7);PlaSMA ID-130
+7	7751	0.02	w/o MS2:38 - L-Methionine
+8	8825	0.02	Unknown
+9	10379	0.02	w/o MS2:Citrulline;LC-ESI-QTOF;MS2;CE
+10	10496	0.02	w/o MS2:Serotonin
+11	10621	0.02	w/o MS2:Daphnetin
+12	11909	0.02	208 - N6,N6,N6-Trimethyl-L-lysine
+13	14364	0.02	Unknown
+14	15186	0.02	Unknown
+15	15686	0.02	w/o MS2:Pesticide3_Fenobucarb_C12H17NO2_Bassa
+16	16250	0.02	Unknown
+17	16262	0.02	Unknown
+18	16269	0.02	Unknown
+19	16360	0.02	Unknown
+20	17593	0.02	Unknown
+21	17596	0.02	Unknown
+22	18982	0.02	w/o MS2:N-Acetyl-L-carnosine
+23	19304	0.02	w/o MS2:cordycepin
+24	19622	0.02	Unknown
+25	19808	0.02	Unknown
+26	20636	0.02	Unknown
+27	20702	0.02	Unknown
+28	20705	0.02	Unknown
+29	20884	0.02	Unknown
+30	21231	0.02	w/o MS2:5'-METHYLTHIOADENOSINE
+31	23075	0.02	w/o MS2:Larixol
+32	23262	0.02	Unknown
+33	25139	0.02	Unknown
+34	26891	0.04	Unknown
+35	27231	0.02	Unknown
+36	27723	0.02	Unknown
+37	27773	0.02	Unknown
+38	28130	0.02	w/o MS2:Citroflex A-4
+39	28887	0.02	Unknown
+40	29587	0.02	Unknown
+41	30358	0.02	Unknown
+42	31253	0.02	Unknown
+43	32389	0.02	Unknown
+44	34091	0.02	Unknown
+45	35243	0.02	Unknown
+46	35311	0.02	Unknown
+47	37357	0.02	Unknown
+48	37781	0.02	Unknown

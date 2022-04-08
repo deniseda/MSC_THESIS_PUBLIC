@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	4259	0.02	Unknown
+1	6151	0.02	6-Methylnicotinamide
+2	6495	0.02	Unknown
+3	6501	0.02	Unknown
+4	6721	0.02	Unknown
+5	8445	0.02	w/o MS2:NP-020293
+6	9144	0.02	Unknown
+7	10621	0.02	w/o MS2:Daphnetin
+8	13190	0.02	w/o MS2:Ala-Leu
+9	13453	0.02	Unknown
+10	13672	0.02	Unknown
+11	14042	0.02	Unknown
+12	14226	0.02	Citric acid
+13	16262	0.02	Unknown
+14	16360	0.02	Unknown
+15	16723	0.02	Unknown
+16	16774	0.02	canthin-6-one
+17	17358	0.02	w/o MS2:NCGC00380110-01_C16H26O3_1-Propanone, 3-hydroxy-1-[(1R,2R,4aR,6S,8aS)-1,2,4a,5,6,7,8,8a-octahydro-2-hydroxy-1,2,6-trimethyl-1-naphthalenyl]-
+18	17845	0.02	Unknown
+19	18024	0.02	sn-Glycero-3-phosphocholine;LC-ESI-QTOF;MS2;CE
+20	18079	0.02	Unknown
+21	19535	0.02	Unknown
+22	19607	0.02	Unknown
+23	19808	0.02	Unknown
+24	20156	0.02	w/o MS2:Xanthosine
+25	20609	0.02	w/o MS2:Azatadine maleate
+26	21101	0.02	Unknown
+27	21868	0.02	Unknown
+28	22081	0.02	Unknown
+29	22920	0.04	Unknown
+30	23070	0.02	Unknown
+31	23078	0.02	w/o MS2:Larixol
+32	23745	0.02	w/o MS2:N-Acetylneuraminic acid
+33	24521	0.02	Unknown
+34	26602	0.02	Unknown
+35	26779	0.02	Unknown
+36	26780	0.02	Unknown
+37	26917	0.02	Unknown
+38	28259	0.02	w/o MS2:MLS001140391-01!
+39	29036	0.02	Unknown
+40	29178	0.02	Unknown
+41	29774	0.02	Unknown
+42	32388	0.02	Unknown
+43	32430	0.02	Unknown
+44	32917	0.02	Unknown
+45	33028	0.02	Unknown
+46	34462	0.02	Unknown
+47	34855	0.02	Unknown
+48	40120	0.02	Unknown

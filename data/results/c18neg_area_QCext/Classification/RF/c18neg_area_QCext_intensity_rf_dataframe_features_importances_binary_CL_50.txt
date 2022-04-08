@@ -1,0 +1,51 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2030	0.02	444 - Methylmalonic acid
+1	2652	0.02	Mesaconic acid
+2	3452	0.02	Unknown
+3	3587	0.02	2-Oxoglutaric acid
+4	4887	0.02	trans-Aconitic acid
+5	4888	0.02	w/o MS2:cis-Aconitate
+6	6093	0.02	Isocitrate
+7	6246	0.02	Unknown
+8	6318	0.02	w/o MS2:Unknown (carbon number 11);PlaSMA ID-254
+9	6791	0.02	DL-Tryptophan
+10	7180	0.02	Unknown
+11	7577	0.02	Unknown
+12	9254	0.02	Unknown
+13	9374	0.02	Unknown
+14	9611	0.02	Unknown
+15	9689	0.02	Unknown
+16	9950	0.02	Unknown
+17	10118	0.02	Unknown
+18	10437	0.02	Unknown
+19	10511	0.02	Unknown
+20	10524	0.02	Unknown
+21	10581	0.02	w/o MS2:gamma-Glutamylglutamine
+22	10896	0.02	w/o MS2:Oleic acid
+23	11143	0.02	Unknown
+24	11231	0.02	Unknown
+25	11388	0.02	Unknown
+26	11593	0.02	w/o MS2:Emodic acid
+27	12022	0.02	Unknown
+28	12871	0.02	w/o MS2:SPECTINOMYCIN
+29	13169	0.02	Unknown
+30	13430	0.02	Unknown
+31	14324	0.02	Unknown
+32	14509	0.02	Unknown
+33	14681	0.02	Unknown
+34	14926	0.02	w/o MS2:FT-thioether;C10H9F11O2S
+35	15046	0.02	Unknown
+36	15063	0.02	w/o MS2:[(2R,3S,4R)-5-(2,4-dioxopyrimidin-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 4-hydroxy-2-methoxy-6-methylbenzoate
+37	15070	0.02	w/o MS2:2-hydroxy-4-methoxy-3,5-bis(3-methylbut-2-enyl)-6-(2-phenylethyl)benzoic acid
+38	15168	0.02	w/o MS2:PFCA-diether_Hsubstituted;C7H2F13O5
+39	15291	0.02	Unknown
+40	15944	0.02	Unknown
+41	16023	0.02	Unknown
+42	16033	0.02	Unknown
+43	16140	0.02	Unknown
+44	16658	0.02	Taurochenodeoxycholic acid
+45	17603	0.02	Unknown
+46	17617	0.02	Unknown
+47	17874	0.02	Unknown
+48	18460	0.02	Unknown
+49	18510	0.02	Unknown

@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	30	0.02	Acrylic acid
+1	1991	0.02	w/o MS2:Phosphoric acid
+2	2822	0.06	Unknown
+3	8434	0.02	Unknown
+4	8995	0.02	Unknown
+5	9423	0.02	Unknown
+6	9542	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-110
+7	11849	0.02	w/o MS2:FT-PFSA;C3H5F3O3S
+8	12855	0.02	Unknown
+9	12927	0.02	Unknown
+10	13537	0.02	Citric acid
+11	14861	0.02	Unknown
+12	15092	0.02	TRYPTOPHAN
+13	18120	0.02	Unknown
+14	18846	0.02	Unknown (carbon number 14);PlaSMA ID-378
+15	18852	0.02	Unknown
+16	18857	0.02	Unknown
+17	18933	0.02	Chlorothalonil-4-hydroxy
+18	19158	0.02	Unknown
+19	19161	0.02	Unknown
+20	20271	0.02	Unknown
+21	21067	0.04	Unknown
+22	21212	0.02	Unknown
+23	21529	0.02	Unknown
+24	22543	0.02	Unknown
+25	23244	0.02	Unknown
+26	23261	0.02	Unknown
+27	23328	0.04	Unknown
+28	23861	0.02	FA 18:2+2O;PlaSMA ID-643
+29	24709	0.02	Unknown
+30	26172	0.02	Unknown
+31	26574	0.02	Unknown
+32	26647	0.02	Unknown
+33	26726	0.02	Unknown
+34	26977	0.02	Unknown
+35	27598	0.02	Unknown
+36	29157	0.02	w/o MS2:8-[2-(3,4-dihydroxy-2,5-dimethoxyoxolan-3-yl)ethyl]-4a,7,8-trimethylspiro[2,3,5,6,7,8a-hexahydro-1H-naphthalene-4,2'-oxirane]-2,3-diol
+37	29189	0.02	Unknown
+38	29392	0.02	Unknown
+39	29639	0.02	Unknown
+40	30324	0.02	Unknown
+41	30640	0.02	Unknown
+42	31178	0.02	Unknown
+43	32704	0.02	w/o MS2:NCGC00380386-01!13-hydroxy-6-(1-hydroxyethyl)-12,14-dimethyl-3-methylidene-15-nonyl-9-propan-2-yl-1-oxa-4,7,10-triazacyclopentadecane-2,5,8,11-tetrone
+44	33489	0.02	Unknown
+45	34543	0.02	w/o MS2:Phosphatidylethanolamine 16

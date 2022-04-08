@@ -1,0 +1,9 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6740	0.02	Unknown
+1	7493	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+2	8024	0.02	w/o MS2:7-hydroxy-coumarin
+3	9415	0.05	Unknown
+4	20795	0.03	w/o MS2:Unknown (carbon number 22);PlaSMA ID-2391
+5	24988	0.02	Unknown
+6	25399	0.02	Unknown
+7	27879	0.03	Unknown

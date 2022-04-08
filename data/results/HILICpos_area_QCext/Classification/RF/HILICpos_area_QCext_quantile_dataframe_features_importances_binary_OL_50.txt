@@ -1,0 +1,46 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	744	0.02	Pyrimidine
+1	958	0.02	Unknown
+2	1575	0.02	Unknown
+3	1894	0.02	w/o MS2:118 - Maleimide
+4	2281	0.02	w/o MS2:1-Aminocyclopropane-1-carboxylic acid;LC-ESI-QTOF;MS2;CE
+5	2339	0.02	w/o MS2:valeramide
+6	3777	0.02	Proline;LC-ESI-ITFT;MS2;CE 35.0 eV;[M+H]+
+7	4109	0.02	w/o MS2:1H-Benzotriazole
+8	4260	0.02	Unknown
+9	4269	0.02	N,N-Dimethylaniline;ESI-ITFT;direct injection;MS2;CE
+10	4710	0.02	Unknown
+11	4779	0.02	w/o MS2:5-Methylcytosine
+12	6483	0.02	w/o MS2:Methylimidazoleacetic acid
+13	7628	0.02	w/o MS2:MLS002153907-01!Cinchonine118-10-5
+14	8149	0.02	w/o MS2:Methyl 3-aminopyrazine-2-carboxylic acid;CE0;INCSQLZZXBPATR-UHFFFAOYSA-N
+15	8333	0.02	L-Histidine;LC-ESI-QTOF;MS2;CE
+16	8756	0.02	w/o MS2:N-Acetylindole;LC-ESI-QTOF;MS2;CE
+17	8881	0.02	w/o MS2:N-Methyllysine
+18	11007	0.02	w/o MS2:3-Amino-3-(4-hydroxyphenyl)propionic acid
+19	12222	0.02	DEET;LC-ESI-ITFT;MS2;CE
+20	13098	0.02	Unknown
+21	14510	0.02	Unknown
+22	14838	0.1	Cystathionine
+23	15334	0.02	Unknown
+24	15606	0.02	w/o MS2:Leucylproline
+25	16257	0.02	Unknown
+26	18479	0.02	w/o MS2:Prenyletin
+27	19607	0.02	Unknown
+28	19779	0.02	w/o MS2:Metalaxyl
+29	21563	0.02	w/o MS2:C15H27NO5;PlaSMA ID-1562
+30	25911	0.02	Unknown
+31	26270	0.02	w/o MS2:Sanguinarium chloride
+32	29774	0.02	Unknown
+33	29861	0.02	Unknown
+34	31011	0.02	w/o MS2:420 - Glycocholic acid
+35	35045	0.02	Unknown
+36	35634	0.02	Unknown
+37	35699	0.02	Unknown
+38	35740	0.02	Unknown
+39	36729	0.02	Unknown
+40	36974	0.04	Unknown
+41	37880	0.02	Unknown
+42	38623	0.02	Unknown
+43	39846	0.02	Unknown
+44	40919	0.02	Unknown

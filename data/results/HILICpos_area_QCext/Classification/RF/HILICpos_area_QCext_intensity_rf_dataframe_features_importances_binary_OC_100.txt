@@ -1,0 +1,15 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6721	0.014166666666666668	Unknown
+1	14838	0.02	Cystathionine
+2	15186	0.02	Unknown
+3	17775	0.013059823471722784	w/o MS2:Unknown (carbon number 15);PlaSMA ID-1089
+4	19190	0.015389896699420506	Unknown
+5	24124	0.024105263157894737	Unknown
+6	27366	0.02	w/o MS2:2-[5-[2-[2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoyloxy]propyl]oxolan-2-yl]propanoic acid
+7	27703	0.019002557544757034	w/o MS2:monolinolein
+8	28119	0.02	Unknown
+9	28887	0.02	Unknown
+10	29090	0.01186602870813397	Unknown
+11	30867	0.01079591836734694	Unknown
+12	32340	0.02	Unknown
+13	33028	0.02	Unknown

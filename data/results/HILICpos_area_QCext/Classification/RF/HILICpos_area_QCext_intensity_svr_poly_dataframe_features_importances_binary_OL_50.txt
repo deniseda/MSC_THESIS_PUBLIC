@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	173	0.02	Pyrrolidine;CE30;RWRDLPDLKQPQOW-UHFFFAOYSA-N
+1	1589	0.02	Unknown
+2	3520	0.02	Creatinine
+3	3740	0.02	52 - L-Proline
+4	3763	0.02	Proline
+5	3992	0.02	Betaine
+6	6120	0.02	w/o MS2:Hypoxanthine
+7	7576	0.02	w/o MS2:L-Glutamic acid
+8	8548	0.02	Unknown (carbon number 8);PlaSMA ID-283
+9	8617	0.02	Unknown
+10	8756	0.02	w/o MS2:N-Acetylindole;LC-ESI-QTOF;MS2;CE
+11	8811	0.02	5-Aminovaleric acid betaine;CE10;CDLVFVFTRQPQFU-UHFFFAOYSA-N
+12	9121	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+13	9347	0.02	w/o MS2:Phenylalanine;PlaSMA ID-359
+14	9392	0.02	Unknown
+15	10335	0.02	Unknown
+16	10582	0.02	Unknown
+17	10657	0.02	w/o MS2:D-GULONIC ACID GAMA-LACTONE
+18	11497	0.02	w/o MS2:2-hydroxy-1-isopentyl-4-methyl-1H-imidazol-5(4H)-one
+19	14230	0.02	Citric acid
+20	14838	0.04	Cystathionine
+21	16658	0.04	w/o MS2:NCGC00381429-01_C12H13NO3_1H-Indole-3-propanoic acid, alpha-hydroxy-beta-methyl-
+22	18848	0.02	Unknown
+23	20196	0.02	Unknown
+24	21333	0.02	w/o MS2:falcarindiol
+25	21408	0.02	w/o MS2:MLS001076116-01!
+26	21680	0.02	w/o MS2:scopolamine
+27	23165	0.02	w/o MS2:N-(3,4-dimethoxyphenethyl)-1H-indole-3-carboxamide
+28	24127	0.02	Unknown
+29	25924	0.02	Unknown
+30	26544	0.02	Unknown
+31	28755	0.02	Unknown
+32	28826	0.02	Unknown
+33	31738	0.02	Unknown
+34	31835	0.02	Unknown
+35	32398	0.02	Unknown
+36	34429	0.02	w/o MS2:(S)-2-((1S,4S)-4-(((S)-2-((tert-butoxycarbonyl)amino)-3-phenylpropanamido)methyl)cyclohexanecarboxamido)-3-phenylpropanoic acid
+37	36974	0.02	Unknown
+38	37803	0.02	Unknown
+39	37831	0.02	Unknown
+40	38421	0.02	Unknown
+41	38497	0.02	Unknown
+42	38902	0.02	Unknown
+43	38903	0.02	Unknown
+44	39132	0.02	Unknown
+45	39846	0.02	Unknown
+46	39909	0.02	Unknown
+47	40919	0.02	Unknown

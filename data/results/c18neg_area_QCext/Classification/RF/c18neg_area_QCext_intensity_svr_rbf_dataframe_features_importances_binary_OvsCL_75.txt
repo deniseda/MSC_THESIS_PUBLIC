@@ -1,0 +1,14 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	878	0.014735166578916577	Unknown
+1	1083	0.018217790893023177	Unknown
+2	1084	0.04334364993847401	Unknown
+3	3587	0.013891994891118135	2-Oxoglutaric acid
+4	5803	0.021531128523954925	10-Hydroxydecanoic acid
+5	6611	0.010645132013253454	Unknown
+6	10088	0.010406504065040649	w/o MS2:Unknown (carbon number 9);PlaSMA ID-430
+7	12118	0.011517055103884373	Unknown (carbon number 18);PlaSMA ID-653
+8	12119	0.010980204682994866	w/o MS2:Unknown (carbon number 18);PlaSMA ID-652
+9	13296	0.01646364085912581	Unknown
+10	13745	0.013363979930780185	w/o MS2:5-hydroxy-3,6,7-trimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one
+11	15845	0.013333333333333334	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+12	16363	0.01596906373899466	Unknown

@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	3142	0.02	Isobutyric acid
+1	5211	0.02	35 - Pipecolic acid
+2	5646	0.02	w/o MS2:272 - N-Acetyl-L-alanine
+3	8149	0.02	w/o MS2:Methyl 3-aminopyrazine-2-carboxylic acid;CE0;INCSQLZZXBPATR-UHFFFAOYSA-N
+4	8242	0.04	Unknown
+5	8333	0.02	L-Histidine;LC-ESI-QTOF;MS2;CE
+6	8493	0.02	w/o MS2:N-Methylbenzylamine Hydrochloride
+7	8811	0.02	5-Aminovaleric acid betaine;CE10;CDLVFVFTRQPQFU-UHFFFAOYSA-N
+8	9121	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+9	11802	0.02	w/o MS2:N8-Acetylspermidine
+10	11890	0.02	w/o MS2:N6-Acetyl-L-lysine
+11	11969	0.02	w/o MS2:MLS002637604-01!phenyl(piperidin-1-yl)methanone
+12	14707	0.02	w/o MS2:3,7-dimethyl-6-octenyl acetate
+13	14838	0.04	Cystathionine
+14	15299	0.02	Flufenacet OXA;LC-ESI-ITFT;MS2;CE
+15	15606	0.02	w/o MS2:Leucylproline
+16	15686	0.02	w/o MS2:Pesticide3_Fenobucarb_C12H17NO2_Bassa
+17	15716	0.02	w/o MS2:1,3,7-Trimethyluric acid
+18	16658	0.02	w/o MS2:NCGC00381429-01_C12H13NO3_1H-Indole-3-propanoic acid, alpha-hydroxy-beta-methyl-
+19	17640	0.02	w/o MS2:Carbamazepine 10,11-epoxide
+20	18479	0.02	w/o MS2:Prenyletin
+21	19287	0.02	Unknown
+22	19485	0.02	"w/o MS2:""""MLS002154189-01!Homatropine hydrobromide (R,S)51-56-9"""""
+23	20354	0.02	Unknown
+24	21564	0.02	w/o MS2:Trachelanthine;PlaSMA ID-1561
+25	21886	0.02	w/o MS2:Unknown (carbon number 14);PlaSMA ID-1602
+26	24652	0.02	w/o MS2:Isodeoxyelephantopin
+27	25214	0.02	w/o MS2:Vinpocetine
+28	25416	0.02	Unknown
+29	25552	0.02	Unknown
+30	25911	0.02	Unknown
+31	27366	0.02	w/o MS2:2-[5-[2-[2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoyloxy]propyl]oxolan-2-yl]propanoic acid
+32	27401	0.02	Unknown
+33	28130	0.02	w/o MS2:Citroflex A-4
+34	30651	0.02	w/o MS2:Unknown (carbon number 29);PlaSMA ID-2498
+35	32891	0.02	Unknown
+36	33226	0.02	w/o MS2:LPC 18:2;PlaSMA ID-2753
+37	34494	0.02	Unknown
+38	36677	0.02	Unknown
+39	36959	0.02	Unknown
+40	37156	0.02	Unknown
+41	37781	0.02	Unknown
+42	39132	0.02	Unknown
+43	39311	0.02	w/o MS2:NCGC00380799-01!5-[5-[5-(3,5-dihydroxydecanoyloxy)-3-hydroxydecanoyl]oxy-3-hydroxydecanoyl]oxy-3-hydroxydecanoic acid
+44	39750	0.02	Unknown
+45	39909	0.04	Unknown
+46	40919	0.02	Unknown

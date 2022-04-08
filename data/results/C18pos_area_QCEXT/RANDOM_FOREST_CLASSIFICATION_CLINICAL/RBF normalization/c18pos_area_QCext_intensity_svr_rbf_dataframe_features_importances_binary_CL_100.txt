@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1549	0.02	Unknown
+1	3794	0.02	Unknown
+2	6191	0.02	Unknown
+3	8309	0.02	w/o MS2:Acetyl-?-methylcholine
+4	8875	0.02	w/o MS2:3-hydroxy-4-methoxy-2,3-dihydropyran-6-one
+5	9957	0.03	Unknown
+6	13094	0.02	w/o MS2:Shikimic Acid
+7	14542	0.02	Unknown
+8	18022	0.02	w/o MS2:N-Acetylneuraminic acid
+9	25461	0.02	Unknown

@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2267	0.02	w/o MS2:PURINE
+1	3133	0.02	Unknown
+2	3904	0.02	Unknown
+3	5527	0.02	Unknown
+4	5594	0.02	w/o MS2:Carbamimidothioic acid
+5	5803	0.02	10-Hydroxydecanoic acid
+6	7037	0.02	w/o MS2:2-Naphthalenesulfonic acid;LC-ESI-ITFT;MS2;CE
+7	7334	0.02	Unknown
+8	7602	0.02	Unknown
+9	9133	0.02	Unknown
+10	9181	0.02	Unknown
+11	9185	0.02	Unknown
+12	9359	0.02	Unknown
+13	9539	0.02	Unknown
+14	9912	0.02	w/o MS2:norlichexanthone
+15	10144	0.02	Unknown
+16	10894	0.02	w/o MS2:Oleic acid
+17	10938	0.02	w/o MS2:rhein
+18	10987	0.02	Unknown
+19	11718	0.02	Unknown
+20	11773	0.02	Unknown
+21	11826	0.02	Unknown
+22	11911	0.02	Unknown
+23	12022	0.02	Unknown
+24	12592	0.02	Unknown
+25	12982	0.04	Unknown
+26	13018	0.04	Unknown
+27	13169	0.02	Unknown
+28	13512	0.02	Unknown
+29	13897	0.02	Unknown
+30	14488	0.02	Unknown
+31	14598	0.02	Unknown
+32	14681	0.02	Unknown
+33	14966	0.02	Unknown
+34	15016	0.02	Unknown
+35	15872	0.02	Unknown
+36	16643	0.02	w/o MS2:Selaginpulvilin I
+37	16739	0.02	Unknown
+38	16755	0.02	Unknown
+39	16869	0.02	Unknown
+40	16946	0.02	w/o MS2:methyl 2,4,10-triacetyloxy-5,9-dihydroxy-1,4a-dimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylate
+41	17319	0.02	Unknown
+42	17385	0.02	Unknown
+43	17484	0.02	LPC 18:2;PlaSMA ID-1556
+44	17552	0.02	Unknown
+45	17874	0.02	Unknown
+46	18236	0.02	Unknown
+47	18625	0.02	Unknown

@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	618	0.02	Unknown
+1	997	0.02	w/o MS2:2-Methylpyrrolidine;CE10;RGHPCLZJAFCTIK-UHFFFAOYSA-N
+2	2413	0.02	Unknown
+3	2418	0.02	Unknown
+4	3570	0.02	Creatinine
+5	3825	0.02	Proline;LC-ESI-ITFT;MS2;CE 70.0 eV;[M+H]+
+6	4290	0.02	Benzamide
+7	5127	0.02	Unknown
+8	5738	0.02	CREATINE (light)
+9	5781	0.02	N-Benzylformamide
+10	5965	0.02	Unknown
+11	6674	0.04	Unknown
+12	7073	0.02	Unknown
+13	7106	0.02	Unknown
+14	7157	0.02	Unknown
+15	8300	0.02	w/o MS2:513 - Indoleacetaldehyde
+16	8537	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+17	9748	0.02	Unknown
+18	11496	0.02	w/o MS2:Salsoline
+19	12301	0.02	Unknown
+20	12432	0.02	w/o MS2:277 - L-Acetylcarnitine
+21	12598	0.02	Unknown
+22	12753	0.02	w/o MS2:PYRIDOXINE
+23	12911	0.02	Unknown
+24	13002	0.02	Cyclo(Leu-Pro)
+25	13539	0.02	Unknown
+26	13571	0.02	w/o MS2:THEOBROMINE
+27	13910	0.02	Unknown
+28	14019	0.02	N,N'-Dicyclohexylurea
+29	15223	0.02	w/o MS2:aspernigrin A
+30	16267	0.02	Unknown
+31	16722	0.02	w/o MS2:methyl 5,6-diacetyloxy-10-hydroxy-2,4b,7,7,10a,12a-hexamethyl-12-methylidene-1,4,8-trioxo-4a,5,6,6a,9,10,10b,11-octahydronaphtho[1,2-h]isochromene-2-carboxylate
+32	16947	0.02	Unknown
+33	18022	0.02	w/o MS2:N-Acetylneuraminic acid
+34	18612	0.02	Unknown
+35	20578	0.02	Unknown
+36	21178	0.02	Unknown
+37	21466	0.02	w/o MS2:Deoxycholic acid
+38	21496	0.02	Unknown
+39	21601	0.02	Unknown
+40	22762	0.02	Unknown
+41	22768	0.02	Unknown
+42	23035	0.02	Unknown
+43	23488	0.02	Unknown
+44	23963	0.02	Unknown
+45	25338	0.02	Unknown
+46	25383	0.02	Unknown
+47	25471	0.02	Unknown
+48	28898	0.02	Unknown

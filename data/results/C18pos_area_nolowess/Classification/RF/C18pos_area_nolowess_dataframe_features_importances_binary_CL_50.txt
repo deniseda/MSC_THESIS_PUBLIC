@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	46	0.02	Unknown
+1	298	0.02	Unknown
+2	1558	0.02	Unknown
+3	2253	0.04	Unknown
+4	2622	0.02	Unknown
+5	3592	0.02	w/o MS2:D-(+)-Proline
+6	4110	0.02	Unknown
+7	5405	0.02	Unknown
+8	5563	0.02	Unknown
+9	6941	0.02	Unknown
+10	7463	0.02	w/o MS2:Aconitic acid (not validated, isomer of 273);PlaSMA ID-271
+11	8144	0.02	Unknown
+12	8858	0.02	Unknown
+13	8869	0.02	Unknown
+14	8915	0.02	Unknown
+15	8991	0.02	Unknown
+16	9358	0.02	w/o MS2:Protocatechuic acid
+17	9863	0.02	Unknown
+18	10202	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-528
+19	10335	0.04	Unknown
+20	10831	0.02	w/o MS2:??-D-Glucopyranuronic acid
+21	11518	0.02	Unknown
+22	11540	0.02	Unknown
+23	13013	0.02	Unknown
+24	13181	0.02	w/o MS2:225 - 3-Nitrotyrosine
+25	13254	0.02	Unknown
+26	13450	0.02	w/o MS2:5-(1,2-dithiolan-3-yl)pentanoic acid
+27	13923	0.02	Unknown
+28	14373	0.02	w/o MS2:Indole-3-acetyl-L-alanine;PlaSMA ID-1033
+29	14443	0.02	w/o MS2:4-methoxy-9H-xanthen-9-one
+30	14507	0.02	Unknown
+31	15070	0.02	Unknown
+32	15300	0.02	w/o MS2:7-prenyl-theophylline
+33	15420	0.02	Unknown
+34	17649	0.02	Unknown
+35	18137	0.02	w/o MS2:547 - Melibiose
+36	18706	0.02	Unknown
+37	19719	0.02	Unknown
+38	20585	0.02	Unknown
+39	21027	0.02	Unknown
+40	21103	0.02	Unknown
+41	21756	0.02	Unknown
+42	22461	0.02	Unknown
+43	22893	0.02	Unknown
+44	23025	0.02	Unknown
+45	23162	0.02	Unknown
+46	23659	0.02	Unknown
+47	24439	0.02	Unknown

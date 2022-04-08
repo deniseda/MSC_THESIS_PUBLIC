@@ -1,0 +1,51 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	255	0.02	Unknown
+1	660	0.02	w/o MS2:Methanesulfonic acid
+2	1084	0.02	Unknown
+3	1272	0.02	3-Hydroxybutyric acid
+4	1365	0.02	Unknown
+5	1598	0.02	Unknown
+6	2395	0.02	Taurine
+7	3669	0.02	Unknown
+8	3697	0.02	344 - Citramalic acid
+9	3961	0.02	Unknown
+10	4560	0.02	Unknown
+11	4641	0.02	Unknown
+12	6093	0.02	Isocitrate
+13	7335	0.02	w/o MS2:3:2 Fluorotelomer alcohol
+14	8037	0.02	w/o MS2:C12H18O4;PlaSMA ID-332
+15	8173	0.02	Unknown
+16	9364	0.02	Unknown
+17	9605	0.02	Unknown
+18	10117	0.02	Unknown
+19	10118	0.02	Unknown
+20	11022	0.02	Unknown
+21	11136	0.02	Unknown
+22	12266	0.02	Unknown
+23	12592	0.02	Unknown
+24	12753	0.02	w/o MS2:icos-19-ene-1,2,4-triol
+25	13075	0.02	Unknown
+26	13723	0.02	Unknown
+27	13799	0.02	Unknown
+28	13992	0.02	Unknown
+29	14332	0.02	Unknown
+30	14408	0.02	Unknown
+31	14508	0.02	Unknown
+32	14927	0.02	Unknown
+33	15046	0.02	Unknown
+34	15048	0.02	Unknown
+35	15063	0.02	w/o MS2:[(2R,3S,4R)-5-(2,4-dioxopyrimidin-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 4-hydroxy-2-methoxy-6-methylbenzoate
+36	15598	0.02	w/o MS2:[(2R)-2-[(E,2S,4R)-4,6-dimethyloct-6-en-2-yl]-6-oxo-2,3-dihydropyran-3-yl] (2E,4E,6S)-8-hydroxy-6-(hydroxymethyl)-4-methylocta-2,4-dienoate
+37	15778	0.02	Unknown
+38	16023	0.02	Unknown
+39	16531	0.02	Unknown
+40	16715	0.02	Unknown
+41	16868	0.02	Unknown
+42	17098	0.02	Unknown
+43	17343	0.02	Unknown
+44	17500	0.02	LPC 18:1;PlaSMA ID-1563
+45	17726	0.02	Unknown
+46	17871	0.02	Unknown
+47	18049	0.02	Unknown
+48	18732	0.02	Unknown
+49	19323	0.02	glycoursodeoxycholic acid

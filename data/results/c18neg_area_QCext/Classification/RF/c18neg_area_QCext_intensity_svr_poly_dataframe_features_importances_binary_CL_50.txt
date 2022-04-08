@@ -1,0 +1,46 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	255	0.02	Unknown
+1	1365	0.02	Unknown
+2	2395	0.02	Taurine
+3	3308	0.02	Unknown
+4	5604	0.02	w/o MS2:DIHYDROXYMANDELIC ACID
+5	6280	0.02	Unknown
+6	7246	0.02	Unknown
+7	7366	0.02	w/o MS2:FA 12:1+1O;PlaSMA ID-298
+8	7611	0.02	Unknown
+9	7640	0.02	w/o MS2:PURPUROGALLIN-4-CARBOXYLIC ACID
+10	9254	0.02	Unknown
+11	9364	0.04	Unknown
+12	9374	0.02	Unknown
+13	9952	0.02	Unknown
+14	10511	0.02	Unknown
+15	11760	0.02	w/o MS2:Thymidine-3',5'-cyclic monophosphate  sodium salt
+16	11848	0.02	Unknown
+17	12797	0.02	w/o MS2:Quercetin 3,7-dimethyl ether
+18	13074	0.02	Unknown
+19	13461	0.02	w/o MS2:methyl 2-(4a,6,10a-trihydroxy-1-methyl-5,10-dioxo-3,4-dihydro-1H-benzo[g]isochromen-3-yl)acetate
+20	13723	0.02	Unknown
+21	14184	0.04	Unknown
+22	14611	0.04	Unknown
+23	14838	0.02	Unknown
+24	14964	0.02	Unknown
+25	15232	0.02	Unknown
+26	15329	0.02	Unknown
+27	15335	0.02	Unknown
+28	15355	0.02	Unknown
+29	15456	0.02	w/o MS2:Inosine-5'-diphosphate;LC-ESI-QTOF;MS2;CE
+30	15924	0.02	Unknown
+31	15990	0.02	Unknown
+32	16449	0.02	Unknown
+33	16474	0.04	Unknown
+34	16580	0.02	Unknown
+35	16868	0.02	Unknown
+36	16900	0.02	Unknown
+37	17423	0.02	Unknown
+38	17441	0.02	Unknown
+39	17462	0.02	Unknown
+40	17575	0.02	Unknown
+41	17603	0.02	Unknown
+42	18050	0.02	Unknown
+43	18701	0.02	Unknown
+44	18732	0.04	Unknown

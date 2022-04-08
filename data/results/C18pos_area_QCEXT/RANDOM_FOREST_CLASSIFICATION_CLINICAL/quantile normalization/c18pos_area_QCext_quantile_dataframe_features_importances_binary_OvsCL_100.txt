@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	232	0.010329785912665644	129 - Methylguanidine
+1	2552	0.010565620213387477	Unknown
+2	7937	0.013734513236961421	w/o MS2:4,5-dihydroxy-3-propylcyclopent-2-en-1-one
+3	9732	0.012577630245550449	DL-Arginine
+4	9955	0.011300246526373075	Unknown
+5	15123	0.010004181517176318	w/o MS2:NCGC00381386-01!2-(7-hydroxy-6-methyloctyl)-2H-furan-5-one
+6	15223	0.01101949284112472	w/o MS2:aspernigrin A
+7	16120	0.01136021789378567	Unknown
+8	24100	0.01772159799206084	w/o MS2:Putative Chenodeoxycholic acid Phenylalanine conjugate
+9	29845	0.013397185860450628	Unknown

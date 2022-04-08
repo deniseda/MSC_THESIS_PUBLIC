@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	50	0.02	Glyoxylic acid
+1	680	0.02	Unknown
+2	878	0.02	Unknown
+3	1084	0.02	Unknown
+4	2514	0.04	Unknown
+5	3127	0.02	L-Threonic acid
+6	5105	0.02	Unknown
+7	5402	0.02	w/o MS2:D-(-)-Mannitol
+8	6049	0.02	Citric acid
+9	6513	0.02	Unknown
+10	6791	0.02	DL-Tryptophan
+11	7174	0.02	Unknown
+12	7406	0.02	Unknown
+13	9648	0.02	Unknown
+14	10457	0.02	Unknown
+15	11580	0.02	Unknown
+16	11587	0.02	Unknown
+17	11915	0.02	Unknown
+18	11991	0.02	w/o MS2:C12-AE1S (TENTATIVE)
+19	12500	0.02	Unknown
+20	12518	0.02	w/o MS2:(1R,4aS,5R,8aS)-5-(5-hydroxy-3-methylpentyl)-1,4a-dimethyl-6-methylidene-3,4,5,7,8,8a-hexahydro-2H-naphthalene-1-carboxylic acid
+21	12963	0.02	Unknown
+22	13296	0.04	Unknown
+23	13360	0.02	w/o MS2:Unknown (carbon number 17);PlaSMA ID-804
+24	13487	0.02	Unknown
+25	13746	0.02	w/o MS2:Corymbosin
+26	13951	0.02	Unknown
+27	14337	0.02	Unknown
+28	14993	0.02	Unknown
+29	15074	0.02	w/o MS2:Cholic acid
+30	15215	0.02	w/o MS2:2-[5-[2-[2-[5-(2-hydroxybutyl)oxolan-2-yl]propanoyloxy]butyl]oxolan-2-yl]propanoic acid
+31	15355	0.02	Unknown
+32	15695	0.02	Unknown
+33	15845	0.02	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+34	16002	0.02	Unknown
+35	16163	0.02	Unknown
+36	16249	0.02	Unknown
+37	16685	0.02	w/o MS2:Phosphatidylethanolamine lyso 20
+38	16805	0.02	Unknown
+39	16927	0.02	Unknown
+40	16949	0.02	Unknown
+41	17067	0.02	w/o MS2:Phosphatidylethanolamine lyso 22
+42	17460	0.02	w/o MS2:LPC 18:3;PlaSMA ID-1545
+43	17487	0.02	Unknown
+44	17530	0.02	Unknown
+45	17555	0.02	Unknown
+46	17687	0.02	w/o MS2:NCGC00380386-01!13-hydroxy-6-(1-hydroxyethyl)-12,14-dimethyl-3-methylidene-15-nonyl-9-propan-2-yl-1-oxa-4,7,10-triazacyclopentadecane-2,5,8,11-tetrone
+47	18580	0.02	Unknown

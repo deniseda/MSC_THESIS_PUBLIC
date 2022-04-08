@@ -1,0 +1,43 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	818	0.02	Unknown
+1	2368	0.02	w/o MS2:L-Serine
+2	2688	0.02	Unknown
+3	3140	0.02	Unknown
+4	3667	0.02	w/o MS2:Succinic acid
+5	5617	0.02	Unknown
+6	6731	0.02	Unknown
+7	7493	0.1	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+8	7767	0.02	Unknown
+9	8003	0.02	Unknown
+10	8073	0.02	Unknown
+11	8394	0.02	w/o MS2:3-Methoxysalicylic acid
+12	8688	0.02	Unknown
+13	9198	0.02	w/o MS2:DL-Arginine
+14	9415	0.04	Unknown
+15	10352	0.02	Unknown
+16	10709	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-570
+17	10930	0.02	Unknown
+18	11347	0.02	w/o MS2:Unknown (carbon number 11);PlaSMA ID-648
+19	11662	0.02	Unknown
+20	12427	0.02	Unknown
+21	12683	0.02	w/o MS2:601 - 12-Hydroxydodecanoic acid
+22	13519	0.02	Unknown
+23	14536	0.02	w/o MS2:PPG n4
+24	14861	0.02	w/o MS2:Unknown (carbon number 16);PlaSMA ID-1137
+25	15243	0.04	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+26	15681	0.02	w/o MS2:Unknown (carbon number 18);PlaSMA ID-1336
+27	15955	0.02	w/o MS2:Unknown (carbon number 15);PlaSMA ID-1391
+28	17004	0.02	w/o MS2:Dihydoroferuloyl Octylamine;PlaSMA ID-1639
+29	17027	0.02	w/o MS2:gamma-Glutamyltyrosine
+30	19590	0.04	Unknown
+31	20466	0.02	Unknown
+32	20588	0.02	Unknown
+33	21932	0.02	Unknown
+34	22518	0.02	Unknown
+35	23217	0.02	Unknown
+36	25522	0.04	Unknown
+37	27278	0.02	Unknown
+38	27755	0.02	Unknown
+39	27870	0.02	Unknown
+40	27874	0.02	Unknown
+41	28000	0.02	Unknown

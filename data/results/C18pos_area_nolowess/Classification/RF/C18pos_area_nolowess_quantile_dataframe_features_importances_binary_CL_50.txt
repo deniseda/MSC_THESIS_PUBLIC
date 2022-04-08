@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	572	0.02	Unknown
+1	734	0.02	Unknown
+2	756	0.02	Unknown
+3	759	0.02	Unknown
+4	1724	0.02	Unknown
+5	3796	0.02	w/o MS2:7 - Purine
+6	4171	0.02	w/o MS2:Benzoic acid
+7	4372	0.02	w/o MS2:Imidazoleacetic acid
+8	4607	0.02	Unknown
+9	5228	0.02	Unknown
+10	5238	0.02	Unknown
+11	5276	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-104
+12	5563	0.04	Unknown
+13	5937	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-161
+14	7486	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+15	7523	0.02	w/o MS2:Unknown (carbon number 9);PlaSMA ID-278
+16	8021	0.02	Unknown
+17	8144	0.02	Unknown
+18	9807	0.02	Unknown
+19	10829	0.02	w/o MS2:319 - beta-D-Galactopyranuronic acid
+20	11060	0.02	Unknown
+21	11103	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-622
+22	11243	0.02	Unknown
+23	11244	0.02	Unknown
+24	11805	0.02	w/o MS2:3-Hydroxy-3-(methoxycarbonyl)pentanedioic acid
+25	11825	0.02	Tryptophan;LC-ESI-QTOF;MS2;CE
+26	12787	0.02	w/o MS2:THEOBROMINE
+27	12978	0.02	Unknown
+28	13252	0.02	w/o MS2:alpha-oxo-1h-indole-3-propanoic acid
+29	13410	0.02	w/o MS2:C11H17NO4;PlaSMA ID-888
+30	14481	0.02	Unknown
+31	14507	0.02	Unknown
+32	14511	0.02	Unknown
+33	15117	0.02	Unknown
+34	16706	0.02	Unknown
+35	17473	0.02	Unknown
+36	17711	0.02	Unknown
+37	17863	0.02	Unknown
+38	18178	0.02	Unknown
+39	19537	0.02	Unknown
+40	20128	0.02	Unknown
+41	20755	0.02	Unknown
+42	21046	0.02	Unknown
+43	21670	0.02	Unknown
+44	22893	0.02	Unknown
+45	23647	0.02	Unknown
+46	27060	0.02	Unknown
+47	27109	0.02	Unknown
+48	27763	0.02	Unknown

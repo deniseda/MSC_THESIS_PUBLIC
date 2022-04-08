@@ -1,0 +1,8 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	5484	0.02	D-Alloisoleucine;LC-ESI-QTOF;MS2;CE
+1	6674	0.02	Unknown
+2	6888	0.02	341 - Spermidine
+3	11773	0.02	Unknown
+4	16075	0.02	Unknown
+5	22768	0.02	Unknown
+6	25383	0.02	Unknown

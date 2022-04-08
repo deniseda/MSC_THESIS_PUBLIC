@@ -1,0 +1,43 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	363	0.02	Unknown
+1	1486	0.02	w/o MS2:333 - Oxalic acid
+2	2318	0.02	Unknown
+3	2822	0.02	Unknown
+4	3238	0.02	w/o MS2:34 - Malonic acid
+5	3309	0.02	DL-beta-Hydroxybutyric acid;LC-ESI-QTOF;MS2;CE
+6	3320	0.02	355 - 2-Hydroxybutyric acid
+7	3321	0.02	2-Hydroxyisobutyric acid
+8	3326	0.02	HydroxyButyric acid
+9	7610	0.02	Unknown
+10	8946	0.02	Glutamine;LC-ESI-ITFT;MS2;CE 15.0 eV;[M-H]-
+11	9542	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-110
+12	10852	0.02	Unknown
+13	12857	0.02	Unknown
+14	13157	0.02	Unknown
+15	14884	0.06	Unknown
+16	15184	0.02	Unknown
+17	16635	0.02	Unknown
+18	16872	0.02	Unknown
+19	17084	0.02	Unknown
+20	17382	0.02	Unknown
+21	17624	0.04	Unknown
+22	18857	0.06	Unknown
+23	19694	0.02	Ketoprofen
+24	20281	0.02	Unknown
+25	21363	0.02	Unknown
+26	21529	0.02	Unknown
+27	22299	0.02	Unknown
+28	23244	0.02	Unknown
+29	25950	0.02	Unknown
+30	26647	0.02	Unknown
+31	26861	0.02	Unknown
+32	27598	0.02	Unknown
+33	27819	0.02	Unknown
+34	27877	0.02	Unknown
+35	28964	0.02	Unknown
+36	29157	0.06	w/o MS2:8-[2-(3,4-dihydroxy-2,5-dimethoxyoxolan-3-yl)ethyl]-4a,7,8-trimethylspiro[2,3,5,6,7,8a-hexahydro-1H-naphthalene-4,2'-oxirane]-2,3-diol
+37	29560	0.02	Unknown
+38	30908	0.02	Unknown
+39	32359	0.04	Unknown
+40	32475	0.02	Unknown
+41	33176	0.02	Unknown

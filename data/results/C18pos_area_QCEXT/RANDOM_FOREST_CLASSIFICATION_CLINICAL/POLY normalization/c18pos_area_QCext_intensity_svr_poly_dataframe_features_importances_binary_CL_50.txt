@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	867	0.02	Unknown
+1	1736	0.02	Unknown
+2	1899	0.02	Unknown
+3	2280	0.02	Unknown
+4	2640	0.04	Unknown
+5	2648	0.02	Unknown
+6	2854	0.02	Unknown
+7	3937	0.02	w/o MS2:443 - Caproic acid
+8	4290	0.02	Benzamide
+9	4465	0.02	4-Hydroxybenzaldehyde
+10	4784	0.02	3-METHYLHISTAMINE
+11	6242	0.02	Unknown
+12	6425	0.02	w/o MS2:cis,cis-Muconic acid
+13	6674	0.04	Unknown
+14	8504	0.02	Unknown
+15	8632	0.02	Unknown
+16	9835	0.02	L-(+)-Citrulline
+17	9996	0.02	w/o MS2:C10H11NO2;PlaSMA ID-458
+18	11318	0.02	Unknown
+19	11897	0.02	Unknown
+20	12529	0.02	110 - D-Tryptophan
+21	13002	0.02	Cyclo(Leu-Pro)
+22	13094	0.02	w/o MS2:Shikimic Acid
+23	13361	0.02	Unknown
+24	13690	0.02	Unknown
+25	13721	0.02	L-5-Hydroxytryptophan
+26	14780	0.02	Unknown
+27	15576	0.02	Unknown
+28	16149	0.04	Unknown
+29	17172	0.02	Unknown
+30	17704	0.02	w/o MS2:Trachelanthine
+31	19490	0.02	Unknown
+32	20032	0.04	w/o MS2:382 - Cortisol
+33	20578	0.02	Unknown
+34	21236	0.02	Unknown
+35	21291	0.02	w/o MS2:eudesmin
+36	22143	0.02	Unknown
+37	22380	0.02	Unknown
+38	23210	0.02	Unknown
+39	23879	0.02	Unknown
+40	24102	0.02	w/o MS2:Putative Chenodeoxycholic acid Phenylalanine conjugate
+41	25471	0.02	Unknown
+42	25586	0.02	w/o MS2:NCGC00386007-01_C33H48O10_(2alpha,5alpha,9alpha,10beta,14beta)-2,5,9,10-Tetraacetoxytaxa-4(20),11-dien-14-yl 2-methylbutanoate
+43	25808	0.02	Unknown
+44	26508	0.02	Unknown
+45	27703	0.02	Unknown

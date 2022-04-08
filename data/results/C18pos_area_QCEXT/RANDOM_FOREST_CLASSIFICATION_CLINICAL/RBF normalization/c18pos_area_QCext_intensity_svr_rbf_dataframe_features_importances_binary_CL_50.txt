@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	110	0.02	w/o MS2:Pyrrolidine;CE30;RWRDLPDLKQPQOW-UHFFFAOYSA-N
+1	1191	0.02	143 - Putrescine
+2	1625	0.02	4-Picoline
+3	3794	0.02	Unknown
+4	3988	0.02	L-Valine
+5	4290	0.04	Benzamide
+6	4291	0.02	w/o MS2:Benzamide
+7	4877	0.02	VITAMIN B3 (light)
+8	4924	0.04	Unknown
+9	6403	0.02	Unknown
+10	7073	0.02	Unknown
+11	7828	0.02	L-Histidine
+12	9474	0.02	L-Phenylalanine (13C6, 99%) (light)
+13	9685	0.02	trans-Aconitic acid
+14	9691	0.02	w/o MS2:Gaultherin
+15	10658	0.02	w/o MS2:Umbelliferone
+16	10928	0.02	Unknown
+17	10951	0.02	Indole-3-acrylic acid
+18	11773	0.04	Unknown
+19	11792	0.02	w/o MS2:Ethylbeta-carboline
+20	11899	0.02	Unknown
+21	12355	0.02	Unknown
+22	12541	0.02	w/o MS2:3,5-dihydroxydecanoic acid
+23	12914	0.02	w/o MS2:2-(3-chlorophenyl)-4,4-dimethyl-4,5-dihydrooxazole
+24	13094	0.02	w/o MS2:Shikimic Acid
+25	13539	0.02	Unknown
+26	14137	0.02	w/o MS2:3,5-dihydroxydecanoic acid
+27	14543	0.02	Unknown
+28	14780	0.02	Unknown
+29	15997	0.02	Unknown
+30	16149	0.02	Unknown
+31	16722	0.02	w/o MS2:methyl 5,6-diacetyloxy-10-hydroxy-2,4b,7,7,10a,12a-hexamethyl-12-methylidene-1,4,8-trioxo-4a,5,6,6a,9,10,10b,11-octahydronaphtho[1,2-h]isochromene-2-carboxylate
+32	16815	0.02	Unknown
+33	19671	0.02	w/o MS2:MLS001075063-01!
+34	19850	0.02	Unknown
+35	19974	0.02	w/o MS2:rabelomycin
+36	20032	0.02	w/o MS2:382 - Cortisol
+37	20578	0.02	Unknown
+38	21933	0.02	w/o MS2:(1s)-1,5-anhydro-1-[2,4,6-trihydroxy-3-(4-hydroxybenzoyl)phenyl]-d-glucitol
+39	22996	0.02	Unknown
+40	23768	0.02	w/o MS2:2-[3-[2-(1,3-benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropoxy]-6-(hydroxymethyl)oxane-3,4,5-triol
+41	23879	0.02	Unknown
+42	24834	0.02	w/o MS2:NCGC00386093-01_C34H43N3O6_
+43	25074	0.02	Unknown
+44	25471	0.02	Unknown
+45	28005	0.02	Unknown
+46	28044	0.02	Unknown

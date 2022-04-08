@@ -1,0 +1,10 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	957	0.02	Unknown
+1	5208	0.02	Pipecolic acid
+2	13984	0.02	w/o MS2:315 - 3-Methoxytyrosine
+3	14838	0.03	Cystathionine
+4	15880	0.02	w/o MS2:NCGC00380830-01!methyl 2-[(2-hydroxy-3-methylbutanoyl)amino]-3-methylbutanoate
+5	20884	0.02	Unknown
+6	31835	0.02	Unknown
+7	31859	0.02	Unknown
+8	35634	0.02	Unknown

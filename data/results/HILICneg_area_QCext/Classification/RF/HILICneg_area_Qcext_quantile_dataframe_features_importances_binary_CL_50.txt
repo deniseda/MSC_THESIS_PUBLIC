@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	282	0.02	Unknown
+1	286	0.02	Unknown
+2	2099	0.02	Unknown
+3	6017	0.02	Taurine
+4	6471	0.04	Itaconic acid (Not validated);PlaSMA ID-45
+5	6833	0.02	2-Hydroxy-4-methylpentanoic acid
+6	8185	0.02	Unknown
+7	11253	0.02	w/o MS2:cis-Aconitic acid
+8	11380	0.02	Arginine
+9	11865	0.02	w/o MS2:Gluconic acid-gamma-lactone
+10	13571	0.02	Citric acid
+11	13865	0.02	w/o MS2:Quebrachitol
+12	13987	0.02	Unknown
+13	14869	0.02	Unknown (carbon number 10);PlaSMA ID-260
+14	14888	0.02	Unknown
+15	14955	0.02	Unknown
+16	15828	0.02	Unknown
+17	15871	0.02	Unknown
+18	16535	0.02	Unknown
+19	17738	0.02	w/o MS2:8-Methylsulfinyloctyl isothiocyanate
+20	17961	0.02	Unknown
+21	18032	0.02	(4S,5Z,6S)-4-(2-methoxy-2-oxoethyl)-5-[2-[(E)-3-phenylprop-2-enoyl]oxyethylidene]-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylic acid
+22	18556	0.02	Unknown
+23	19306	0.02	Unknown
+24	20740	0.02	Dodecyl sulfate
+25	21990	0.02	Unknown
+26	22015	0.02	Unknown
+27	23904	0.02	Unknown
+28	24014	0.02	Unknown
+29	24648	0.02	Unknown
+30	25650	0.02	Unknown
+31	25855	0.02	Unknown
+32	25879	0.02	Unknown
+33	26977	0.02	Unknown
+34	27516	0.02	Unknown
+35	27755	0.02	Unknown
+36	27979	0.02	Unknown
+37	28516	0.02	Unknown
+38	28680	0.02	Unknown
+39	29532	0.02	Unknown
+40	30324	0.02	Unknown
+41	30775	0.02	Unknown
+42	30841	0.02	Unknown
+43	31178	0.02	Unknown
+44	31276	0.02	w/o MS2:Unknown (carbon number 23);PlaSMA ID-1411
+45	32039	0.02	Unknown
+46	33197	0.02	Unknown
+47	33512	0.02	Unknown
+48	34751	0.02	Unknown

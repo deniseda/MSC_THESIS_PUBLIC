@@ -1,0 +1,7 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	191	0.02	Unknown
+1	5437	0.03	w/o MS2:381 - Tyramine
+2	9415	0.02	Unknown
+3	11825	0.03	Tryptophan;LC-ESI-QTOF;MS2;CE
+4	15243	0.02	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+5	22923	0.02	Unknown

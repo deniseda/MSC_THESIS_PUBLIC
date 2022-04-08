@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2856	0.02	Succinic semialdehyde
+1	4085	0.02	w/o MS2:2-Furoic acid
+2	4105	0.02	2-Furoic acid
+3	6390	0.02	w/o MS2:PFCA-Cl;C2HClF2O2
+4	11255	0.02	w/o MS2:trans-Aconitic acid
+5	11668	0.02	w/o MS2:ASCORBIC ACID
+6	13563	0.02	5 - Citric acid
+7	13588	0.02	5 - Citric acid
+8	13865	0.02	w/o MS2:Quebrachitol
+9	14307	0.02	Unknown
+10	15871	0.02	Unknown
+11	18070	0.02	Unknown
+12	18310	0.02	Unknown
+13	19161	0.02	Unknown
+14	20149	0.02	w/o MS2:Bromacil;LC-ESI-ITFT;MS2;CE
+15	20173	0.02	w/o MS2:Bromacil;LC-ESI-ITFT;MS2;CE
+16	20229	0.02	Unknown
+17	21672	0.02	Unknown
+18	21681	0.02	Unknown
+19	22115	0.04	Unknown
+20	22187	0.04	Unknown
+21	22377	0.02	Unknown
+22	22548	0.02	Unknown
+23	23262	0.02	Unknown
+24	23367	0.02	Unknown
+25	23839	0.02	w/o MS2:Sappanone A Dimethyl Ether
+26	25650	0.02	Unknown
+27	25821	0.02	w/o MS2:NCGC00095460-07!7,11b-dihydro-6H-indeno[2,1-c]chromene-3,4,6a,9,10-pentol
+28	26526	0.02	Unknown
+29	27265	0.02	Unknown
+30	28107	0.02	Unknown
+31	28274	0.02	Unknown
+32	28548	0.02	Unknown
+33	29055	0.02	w/o MS2:Inosine-5'-diphosphate;LC-ESI-QTOF;MS2;CE
+34	29060	0.02	w/o MS2:Inosine-5'-diphosphate;LC-ESI-QTOF;MS2;CE
+35	29963	0.02	Unknown
+36	30442	0.02	Unknown
+37	30841	0.02	Unknown
+38	31397	0.02	Unknown
+39	31505	0.02	Unknown
+40	32154	0.02	Unknown
+41	32543	0.02	w/o MS2:PFCA-ether;C9HF17O9
+42	33176	0.02	Unknown
+43	33524	0.02	Unknown
+44	34162	0.02	Unknown
+45	35323	0.02	Unknown
+46	35363	0.02	Unknown
+47	35386	0.02	Unknown

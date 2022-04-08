@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2640	0.03	Unknown
+1	9955	0.03	Unknown
+2	10239	0.03	Unknown
+3	11774	0.02	Unknown
+4	12490	0.02	w/o MS2:PYROGALLIN
+5	12760	0.02	w/o MS2:PYRIDOXINE
+6	15676	0.02	Unknown
+7	16005	0.02	Unknown
+8	19850	0.02	Unknown
+9	21714	0.02	Unknown

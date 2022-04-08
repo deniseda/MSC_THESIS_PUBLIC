@@ -1,0 +1,3 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	5276	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-104
+1	14263	0.02	Unknown

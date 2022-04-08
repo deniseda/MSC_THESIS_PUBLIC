@@ -1,0 +1,6 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2724	0.02	Unknown
+1	7161	0.02	w/o MS2:ADENINE
+2	11781	0.02	Unknown
+3	14670	0.02	Unknown
+4	14918	0.02	Unknown

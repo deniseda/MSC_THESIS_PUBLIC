@@ -1,0 +1,9 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	867	0.03	Unknown
+1	7073	0.05	Unknown
+2	12541	0.02	w/o MS2:3,5-dihydroxydecanoic acid
+3	13094	0.02	w/o MS2:Shikimic Acid
+4	13530	0.02	Unknown
+5	17704	0.02	w/o MS2:Trachelanthine
+6	18665	0.02	Unknown
+7	21442	0.02	Unknown

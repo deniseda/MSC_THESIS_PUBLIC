@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	160	0.02	Unknown
+1	1448	0.02	Unknown
+2	1466	0.04	Unknown
+3	1593	0.02	Unknown
+4	2097	0.02	Unknown
+5	2382	0.04	w/o MS2:14 - L-Serine
+6	3930	0.04	Unknown
+7	4479	0.02	Unknown
+8	4607	0.02	Unknown
+9	5563	0.02	Unknown
+10	5926	0.02	Unknown
+11	6099	0.02	w/o MS2:Caprylic acid
+12	6708	0.02	Unknown
+13	6962	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-222
+14	7533	0.02	Unknown
+15	7588	0.02	Unknown
+16	7873	0.02	Unknown
+17	8144	0.02	Unknown
+18	9102	0.02	w/o MS2:N-Acetylaspartic acid
+19	9358	0.02	w/o MS2:Protocatechuic acid
+20	9441	0.02	Unknown
+21	9757	0.02	Unknown
+22	10070	0.02	w/o MS2:Umbelliferone
+23	11103	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-622
+24	11672	0.02	Unknown
+25	11738	0.02	w/o MS2:Cinnamoylglycine
+26	12389	0.02	Unknown
+27	13179	0.02	w/o MS2:225 - 3-Nitrotyrosine
+28	13252	0.02	w/o MS2:alpha-oxo-1h-indole-3-propanoic acid
+29	13675	0.02	Unknown
+30	14053	0.02	Unknown
+31	14679	0.02	w/o MS2:Unknown (carbon number 15);PlaSMA ID-1098
+32	14863	0.02	Unknown
+33	14967	0.02	Unknown
+34	15560	0.02	Unknown
+35	16889	0.02	Unknown
+36	17284	0.02	Unknown
+37	17527	0.02	Unknown
+38	19370	0.02	Unknown
+39	19457	0.02	Unknown
+40	19904	0.02	Unknown
+41	22160	0.02	Unknown
+42	23378	0.02	Unknown
+43	23977	0.02	Unknown
+44	25362	0.02	Unknown
+45	26874	0.02	Unknown
+46	28024	0.02	Unknown

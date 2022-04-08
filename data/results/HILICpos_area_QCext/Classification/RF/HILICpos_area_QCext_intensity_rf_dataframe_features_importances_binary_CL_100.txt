@@ -1,0 +1,10 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	13190	0.02	w/o MS2:Ala-Leu
+1	15602	0.02	H-Pro-Hyp-OH
+2	16250	0.02	Unknown
+3	20549	0.02	w/o MS2:dehydrocurvularin
+4	20705	0.02	Unknown
+5	27772	0.02	Unknown
+6	28134	0.02	w/o MS2:Citroflex A-4
+7	30371	0.02	Unknown
+8	30785	0.02	Unknown

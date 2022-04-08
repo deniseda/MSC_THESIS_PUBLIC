@@ -1,0 +1,15 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	4071	0.02	Unknown (carbon number 5);PlaSMA ID-18
+1	4085	0.02	w/o MS2:2-Furoic acid
+2	4105	0.02	2-Furoic acid
+3	6444	0.02	CITRACONIC ACID
+4	10676	0.02	Unknown
+5	11300	0.02	Aconitic Acid
+6	11426	0.02	Unknown
+7	13563	0.02	5 - Citric acid
+8	13614	0.02	Citric acid
+9	13648	0.02	5 - Citric acid
+10	28336	0.02	Unknown
+11	28970	0.02	Unknown
+12	30430	0.02	Unknown
+13	30442	0.02	Unknown

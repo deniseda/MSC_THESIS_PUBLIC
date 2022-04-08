@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2868	0.02	Unknown
+1	7853	0.02	168 - L-Histidine
+2	8462	0.02	Unknown
+3	9906	0.02	w/o MS2:herniarin
+4	9956	0.04	Unknown
+5	10695	0.02	w/o MS2:2-hydroxy-1-isopentyl-4-methyl-1H-imidazol-5(4H)-one
+6	11398	0.03	DEET
+7	13462	0.03	Texanol
+8	16181	0.02	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+9	16506	0.02	Citroflex 2
+10	16570	0.02	Dibutyl phthalate
+11	17315	0.02	Citroflex 2
+12	23330	0.02	w/o MS2:Aconine
+13	29660	0.02	Unknown
+14	29845	0.03	Unknown

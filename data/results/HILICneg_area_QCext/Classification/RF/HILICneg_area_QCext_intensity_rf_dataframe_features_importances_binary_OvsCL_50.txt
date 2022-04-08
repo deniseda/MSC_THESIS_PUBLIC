@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	261	0.02	Unknown
+1	2318	0.02	Unknown
+2	6390	0.02	w/o MS2:PFCA-Cl;C2HClF2O2
+3	6660	0.02	Unknown
+4	8194	0.02	Unknown
+5	8812	0.02	Unknown
+6	9542	0.04	w/o MS2:Unknown (carbon number 7);PlaSMA ID-110
+7	11849	0.02	w/o MS2:FT-PFSA;C3H5F3O3S
+8	11940	0.02	Unknown
+9	12551	0.02	Unknown
+10	12871	0.02	Unknown
+11	13865	0.02	w/o MS2:Quebrachitol
+12	14861	0.02	Unknown
+13	15437	0.02	Unknown
+14	15672	0.02	w/o MS2:167 - Galactaric acid
+15	15870	0.02	Unknown
+16	16635	0.02	Unknown
+17	17084	0.02	Unknown
+18	17624	0.02	Unknown
+19	18857	0.02	Unknown
+20	18981	0.02	Unknown
+21	20627	0.02	Unknown
+22	20740	0.02	Dodecyl sulfate
+23	20771	0.02	Unknown
+24	21067	0.02	Unknown
+25	21068	0.02	Unknown
+26	21665	0.02	Unknown
+27	21889	0.02	Unknown
+28	22543	0.02	Unknown
+29	22860	0.02	Unknown
+30	23328	0.02	Unknown
+31	23335	0.02	Unknown
+32	23367	0.02	Unknown
+33	24277	0.02	Unknown
+34	24709	0.02	Unknown
+35	26061	0.02	Unknown
+36	26647	0.02	Unknown
+37	27378	0.02	Unknown
+38	29060	0.02	w/o MS2:Inosine-5'-diphosphate;LC-ESI-QTOF;MS2;CE
+39	29259	0.02	Unknown
+40	29661	0.02	Unknown
+41	30589	0.02	Unknown
+42	32140	0.02	w/o MS2:Phosphatidylcholine lyso 18
+43	33149	0.02	Unknown
+44	33699	0.02	Unknown
+45	33990	0.02	Unknown
+46	34543	0.04	w/o MS2:Phosphatidylethanolamine 16
+47	35112	0.02	Unknown

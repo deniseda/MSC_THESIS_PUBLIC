@@ -1,0 +1,12 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	795	0.02	Unknown
+1	1074	0.02	Unknown
+2	4290	0.02	Benzamide
+3	5642	0.02	Unknown
+4	6403	0.02	Unknown
+5	10784	0.02	w/o MS2:O-PHOSPHO-L-SERINE
+6	12529	0.02	110 - D-Tryptophan
+7	16005	0.02	Unknown
+8	17172	0.03	Unknown
+9	17819	0.03	Unknown
+10	19850	0.02	Unknown

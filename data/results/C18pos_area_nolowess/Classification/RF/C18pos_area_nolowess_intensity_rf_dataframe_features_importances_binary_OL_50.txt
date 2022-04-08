@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2124	0.02	Unknown
+1	3681	0.02	Unknown
+2	4104	0.02	Unknown
+3	5405	0.04	Unknown
+4	5477	0.02	Hypoxanthine
+5	5933	0.02	Unknown
+6	6731	0.02	Unknown
+7	6733	0.02	Unknown
+8	6793	0.02	w/o MS2:Unknown (carbon number 9);PlaSMA ID-209
+9	7493	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+10	7495	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+11	9172	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-419
+12	9417	0.02	Unknown
+13	9543	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-474
+14	9757	0.02	Unknown
+15	9805	0.02	Unknown
+16	10092	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-523
+17	11358	0.04	Unknown
+18	12311	0.02	Unknown
+19	12347	0.02	w/o MS2:methyl 1-methyl-9H-beta-carbolin-7-yl ether
+20	12364	0.02	w/o MS2:Unknown (carbon number 12);PlaSMA ID-784
+21	13519	0.02	Unknown
+22	13965	0.02	Unknown
+23	14900	0.02	w/o MS2:skimmianine
+24	15208	0.02	Unknown
+25	15245	0.02	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+26	15562	0.02	Unknown
+27	15687	0.02	Unknown
+28	16420	0.02	Unknown
+29	17634	0.02	Unknown
+30	18317	0.02	Unknown
+31	19225	0.02	Unknown
+32	19767	0.02	Unknown
+33	20795	0.02	w/o MS2:Unknown (carbon number 22);PlaSMA ID-2391
+34	21945	0.02	Unknown
+35	22688	0.02	w/o MS2:NCGC00160302-01!BELLADONNINE
+36	22841	0.02	Unknown
+37	23654	0.02	Unknown
+38	24988	0.02	Unknown
+39	26768	0.02	Unknown
+40	27373	0.02	Unknown
+41	27574	0.02	Unknown
+42	27864	0.02	Unknown
+43	27879	0.04	Unknown
+44	27892	0.04	Unknown
+45	28020	0.02	Unknown

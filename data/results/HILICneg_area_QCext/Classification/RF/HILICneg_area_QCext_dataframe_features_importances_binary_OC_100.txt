@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	261	0.02	Unknown
+1	1974	0.02	Unknown
+2	1991	0.02	w/o MS2:Phosphoric acid
+3	4084	0.02	w/o MS2:2-Furoic acid
+4	15190	0.02	w/o MS2:3-Hydroxy-3-(methoxycarbonyl)pentanedioic acid
+5	16279	0.02	Unknown
+6	19647	0.02	Unknown
+7	22840	0.02	Unknown
+8	23262	0.02	Unknown
+9	25833	0.03	Unknown
+10	27971	0.02	Unknown
+11	28107	0.02	Unknown
+12	28680	0.02	Unknown
+13	30136	0.02	Unknown
+14	30783	0.02	Unknown

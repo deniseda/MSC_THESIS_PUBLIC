@@ -1,0 +1,21 @@
+{
+    "QC_slice": "_QC_",
+    "QC_rename": "NB_Plasma_QC_C18_Pos_",
+    "sample_slice": "_NB_Plasma_Quant_C18_Pos_",
+    "sample_rename": "X.*_NB_Plasma_Quant_C18_Pos_",
+    "header_number": 1,
+    "dic_column_name": "Alignment.ID",
+    "threshold": 0.01,
+    "header_num_dict": 0,
+    "num_rele_meta": 50,
+    "fil_column_name": "MS.MS.matched",
+    "column_value": "True",
+    "intergroup_pca_2_vmin": 0,
+    "intergroup_pca_2_vmax": 0.3,
+    "intergroup_pca_3_vmin": 0,
+    "intergroup_pca_3_vmax": 0.35,
+    "intergroup_tsne_2_vmin": 0,
+    "intergroup_tsne_2_vmax": 20,
+    "intergroup_tsne_3_vmin": 50,
+    "intergroup_tsne_3_vmax": 270
+}

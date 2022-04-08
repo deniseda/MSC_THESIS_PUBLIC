@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	70	0.02	w/o MS2:Glycolic acid
+1	249	0.02	Unknown
+2	1083	0.02	Unknown
+3	2311	0.02	425 - Benzoic acid
+4	5113	0.02	Ascorbic acid
+5	6227	0.02	w/o MS2:Butylparaben
+6	6292	0.02	Unknown
+7	6369	0.02	Unknown
+8	7406	0.02	Unknown
+9	7590	0.02	Pantothenate
+10	8099	0.02	Unknown
+11	9107	0.02	Unknown
+12	9348	0.02	Unknown
+13	9709	0.04	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+14	9782	0.02	w/o MS2:4-Methylumbelliferyl sulfate
+15	9969	0.02	Unknown
+16	10290	0.02	Dodecyl sulfate
+17	12375	0.02	Unknown
+18	12766	0.02	Unknown
+19	12797	0.02	w/o MS2:Quercetin 3,7-dimethyl ether
+20	13296	0.02	Unknown
+21	13745	0.02	w/o MS2:5-hydroxy-3,6,7-trimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one
+22	14459	0.02	Unknown
+23	14841	0.02	Unknown
+24	15022	0.02	Unknown
+25	15227	0.02	Unknown
+26	15475	0.02	w/o MS2:C21H32O9;PlaSMA ID-1102
+27	15598	0.02	w/o MS2:[(2R)-2-[(E,2S,4R)-4,6-dimethyloct-6-en-2-yl]-6-oxo-2,3-dihydropyran-3-yl] (2E,4E,6S)-8-hydroxy-6-(hydroxymethyl)-4-methylocta-2,4-dienoate
+28	15694	0.02	Unknown
+29	15695	0.02	Unknown
+30	15845	0.04	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+31	15850	0.02	Unknown
+32	15892	0.02	w/o MS2:NCGC00381128-01_C18H26O10_4-(beta-D-Glucopyranosyloxy)benzyl 2,3-dihydroxy-3-methylbutanoate
+33	16214	0.02	Unknown
+34	16363	0.02	Unknown
+35	16554	0.02	Unknown
+36	16577	0.02	Unknown
+37	16580	0.02	Unknown
+38	16660	0.02	w/o MS2:Phosphatidylcholine lyso 14
+39	16730	0.02	Unknown
+40	16949	0.06	Unknown
+41	17712	0.02	Unknown
+42	17760	0.02	Unknown
+43	17970	0.02	Unknown
+44	18188	0.02	Unknown
+45	18210	0.02	Unknown

@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1084	0.012047428323043079	Unknown
+1	5803	0.017012778312801215	10-Hydroxydecanoic acid
+2	7174	0.010449027591884737	Unknown
+3	10087	0.018584106660959568	w/o MS2:Unknown (carbon number 9);PlaSMA ID-430
+4	11673	0.013243848997420425	Unknown
+5	13413	0.020764709106005193	Unknown
+6	13467	0.017849838961752573	w/o MS2:Unknown (carbon number 16);PlaSMA ID-814
+7	13745	0.01189379808322044	w/o MS2:5-hydroxy-3,6,7-trimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one
+8	14950	0.010523637569262391	Unknown
+9	15507	0.012626511928931283	w/o MS2:Unknown (carbon number 18);PlaSMA ID-1109
+10	15523	0.010815771784991055	w/o MS2:Hecogenin
+11	15845	0.01743820779653543	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+12	16192	0.015921485488898858	w/o MS2:1-[(2E,4E)-6,7-Dihydroxy-2,4-octadienoyl]prolyl-N-methylvalyl-N2-methylalaninamide
+13	16731	0.010016552683706501	Unknown
+14	17371	0.01377838951672623	Unknown

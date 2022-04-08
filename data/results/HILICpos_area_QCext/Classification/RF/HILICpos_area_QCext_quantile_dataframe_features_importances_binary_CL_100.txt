@@ -1,0 +1,6 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2073	0.03	?-Valerolactam
+1	18072	0.02	Unknown
+2	20681	0.02	w/o MS2:MMV024311
+3	28130	0.02	w/o MS2:Citroflex A-4
+4	29090	0.02	Unknown

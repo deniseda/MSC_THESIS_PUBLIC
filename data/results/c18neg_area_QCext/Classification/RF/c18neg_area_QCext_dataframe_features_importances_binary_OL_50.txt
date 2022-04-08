@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	481	0.02	333 - Oxalic acid
+1	953	0.02	Unknown
+2	3505	0.02	Unknown
+3	4479	0.02	w/o MS2:PFAP-PAP;CH2F3O4P
+4	5893	0.02	Unknown
+5	6611	0.02	Unknown
+6	7174	0.04	Unknown
+7	7221	0.02	Unknown
+8	7226	0.02	Unknown
+9	9709	0.02	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+10	9780	0.02	w/o MS2:L-Ascorbic acid 2-sulfate
+11	9783	0.02	w/o MS2:4-Methylumbelliferyl sulfate
+12	9940	0.02	Unknown
+13	10228	0.02	Unknown
+14	10939	0.02	Unknown
+15	11191	0.02	w/o MS2:NCGC00380665-01_C16H18O5_(8E)-11,13-Dihydroxy-4-methyl-4,5,6,7-tetrahydro-2H-3-benzoxacyclododecine-2,10(1H)-dione
+16	12639	0.02	w/o MS2:4-amino-2-hydroxy-5-[[1-hydroxy-1-(5-oxo-6-bicyclo[4.1.0]hept-3-enyl)propan-2-yl]amino]-5-oxopentanoic acid
+17	13092	0.02	Unknown
+18	13413	0.02	Unknown
+19	14272	0.02	Unknown
+20	14459	0.04	Unknown
+21	14793	0.02	Unknown
+22	14969	0.02	Unknown
+23	15107	0.02	w/o MS2:NCGC00380260-01!2-(2-acetyloxy-12-hydroxytridecyl)-4,6-dihydroxybenzoic acid
+24	15164	0.02	w/o MS2:Grayanotoxin I
+25	15251	0.02	w/o MS2:Hexose + C13H19O (isomer of 1061);PlaSMA ID-1062
+26	15430	0.02	Unknown
+27	15475	0.02	w/o MS2:C21H32O9;PlaSMA ID-1102
+28	15695	0.02	Unknown
+29	15760	0.02	Unknown
+30	15845	0.02	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+31	15900	0.02	Unknown
+32	15913	0.02	Unknown
+33	16003	0.02	Unknown
+34	16131	0.02	w/o MS2:Phosphatidylethanolamine lyso alkenyl 18
+35	16461	0.02	Unknown
+36	16486	0.02	Unknown
+37	16577	0.02	Unknown
+38	16731	0.02	Unknown
+39	16756	0.02	w/o MS2:Phosphatidylethanolamine lyso 20
+40	16854	0.02	Unknown
+41	16883	0.02	Unknown
+42	17443	0.02	Unknown
+43	17481	0.02	LPC 18:2;PlaSMA ID-1554
+44	17517	0.02	w/o MS2:NCGC00381203-01_C31H46N4O7_2H-Pyrido[1,2-a][1,4,7,10]tetraazacyclododecine-1,4,7,10(3H,12H)-tetrone, 3-(7,8-dihydroxy-6-oxooctyl)octahydro-9-(1-methylpropyl)-6-(phenylmethyl)-
+45	17687	0.02	w/o MS2:NCGC00380386-01!13-hydroxy-6-(1-hydroxyethyl)-12,14-dimethyl-3-methylidene-15-nonyl-9-propan-2-yl-1-oxa-4,7,10-triazacyclopentadecane-2,5,8,11-tetrone
+46	17770	0.02	Unknown
+47	18198	0.02	w/o MS2:NCGC00380909-01_C34H54O8_(1alpha,3alpha,7alpha,9xi,13alpha,17xi,20xi)-3,21,23-Trihydroxy-4,4,8-trimethyl-24,25-epoxycholest-14-ene-1,7-diyl diacetate

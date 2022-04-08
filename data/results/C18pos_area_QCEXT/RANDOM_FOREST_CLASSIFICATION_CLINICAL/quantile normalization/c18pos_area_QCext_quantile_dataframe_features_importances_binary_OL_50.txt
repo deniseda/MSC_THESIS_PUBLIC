@@ -1,0 +1,42 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	178	0.04	386 - 2-Methylpropanal
+1	184	0.02	386 - 2-Methylpropanal
+2	1181	0.04	469 - Butyric acid
+3	2868	0.02	Unknown
+4	7221	0.02	Unknown
+5	7336	0.02	Triethanolamine
+6	7342	0.02	Triethanolamine;LC-ESI-QTOF;MS2;CE
+7	7479	0.02	Paracetamol
+8	7853	0.02	168 - L-Histidine
+9	7937	0.04	w/o MS2:4,5-dihydroxy-3-propylcyclopent-2-en-1-one
+10	8462	0.06	Unknown
+11	8539	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+12	9957	0.04	Unknown
+13	11055	0.02	Unknown
+14	11265	0.02	Unknown
+15	11283	0.02	w/o MS2:570 - Protoporphyrin IX
+16	11602	0.04	w/o MS2:Caffeine
+17	12531	0.02	Tryptophan
+18	13064	0.02	Unknown
+19	13461	0.02	Texanol
+20	13656	0.02	297 - Pantothenic acid
+21	14109	0.02	Unknown
+22	16181	0.04	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+23	17042	0.04	w/o MS2:Rutaecarpine
+24	17144	0.02	Unknown
+25	17281	0.02	w/o MS2:NCGC00384680-01_C17H24O4_Bicyclo[7.2.0]undec-4-en-3-one, 11-[(acetyloxy)methyl]-4-(hydroxymethyl)-11-methyl-8-methylene-, (1R,4Z,9S)-
+26	19406	0.02	LAUROYLCARNITINE
+27	21072	0.02	w/o MS2:methyl (1S,12S,13E)-13-ethylidene-18-(hydroxymethyl)-4-methoxy-8,15-diazapentacyclo[10.5.1.0?,?.0?,?.0??,??]octadeca-2,4,6,8-tetraene-18-carboxylate
+28	21423	0.02	w/o MS2:NCGC00347722-02!(2Z)-2-[(E)-6-(hydroxymethyl)-2,4,8,10-tetramethyldodec-2-enylidene]-4-methylpentanedioic acid
+29	22584	0.02	Unknown
+30	23231	0.02	w/o MS2:MLS001333570-01!55297-96-6
+31	23347	0.02	w/o MS2:sodium (2R)-2-((2R,5S,6R)-6-((3E,5E)-6-((3aR,4S,7aS)-4-(1H-pyrrole-2-carbonyl)-2,3,3a,4,5,7a-hexahydro-1H-inden-5-yl)hexa-3,5-dien-3-yl)-5-methyltetrahydro-2H-pyran-2-yl)butanoate
+32	23376	0.02	Unknown
+33	23671	0.02	w/o MS2:LPC 18:3;PlaSMA ID-2744
+34	23819	0.02	w/o MS2:MLS001140787-01!(2S)-2-[[(2R)-2-[[1-[(2-methylpropan-2-yl)oxycarbonyl]-4-phenylpiperidine-4-carbonyl]amino]propanoyl]amino]-3-phenylpropanoic acid
+35	24100	0.02	w/o MS2:Putative Chenodeoxycholic acid Phenylalanine conjugate
+36	24132	0.02	Unknown
+37	24424	0.02	Unknown
+38	24724	0.02	w/o MS2:Tunicamycin in source fragment -C8H15NO6
+39	26586	0.02	Unknown
+40	27532	0.02	Unknown

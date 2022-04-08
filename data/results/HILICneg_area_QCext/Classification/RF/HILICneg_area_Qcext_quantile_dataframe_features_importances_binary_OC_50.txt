@@ -1,0 +1,43 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2099	0.02	Unknown
+1	4085	0.02	w/o MS2:2-Furoic acid
+2	4105	0.04	2-Furoic acid
+3	6527	0.02	Ketoleucine
+4	8185	0.02	Unknown
+5	8997	0.02	Unknown
+6	10676	0.02	Unknown
+7	11300	0.02	Aconitic Acid
+8	11426	0.02	Unknown
+9	13600	0.02	Citric acid
+10	13626	0.02	5 - Citric acid
+11	13648	0.04	5 - Citric acid
+12	14052	0.04	Unknown
+13	15092	0.02	TRYPTOPHAN
+14	17074	0.02	Unknown
+15	17738	0.02	w/o MS2:8-Methylsulfinyloctyl isothiocyanate
+16	18070	0.04	Unknown
+17	18556	0.02	Unknown
+18	18741	0.06	Unknown
+19	18905	0.02	Unknown
+20	19647	0.02	Unknown
+21	20301	0.02	Unknown
+22	21228	0.02	Glu-Gln
+23	21662	0.02	Unknown
+24	21675	0.02	Unknown
+25	21990	0.02	Unknown
+26	23367	0.02	Unknown
+27	23671	0.02	w/o MS2:N-Acetylneuraminic acid
+28	24014	0.02	Unknown
+29	25833	0.02	Unknown
+30	27833	0.04	Unknown
+31	28253	0.02	Unknown
+32	28700	0.02	Unknown
+33	29259	0.02	Unknown
+34	29528	0.02	Unknown
+35	30589	0.02	Unknown
+36	30640	0.02	Unknown
+37	30972	0.02	Unknown
+38	34068	0.04	Unknown
+39	34534	0.02	Unknown
+40	35218	0.02	Unknown
+41	35386	0.02	Unknown

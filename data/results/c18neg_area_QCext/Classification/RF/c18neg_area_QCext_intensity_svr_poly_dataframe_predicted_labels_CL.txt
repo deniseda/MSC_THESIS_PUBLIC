@@ -1,0 +1,10 @@
+	true_labels	predict_labels_100	predicted_labels_75	predicted_labels_50
+0	local	local	local	local
+1	local	local	local	local
+2	control	control	control	control
+3	control	control	control	control
+4	local	local	local	local
+5	control	local	local	local
+6	control	control	control	control
+7	local	local	local	local
+8	local	local	local	local

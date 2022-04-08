@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	867	0.02	Unknown
+1	990	0.02	w/o MS2:2-Methylpyrrolidine;CE10;RGHPCLZJAFCTIK-UHFFFAOYSA-N
+2	2115	0.02	?-Valerolactam
+3	2413	0.02	Unknown
+4	3110	0.02	w/o MS2:Pyruvic acid
+5	4783	0.02	3-METHYLHISTAMINE
+6	6242	0.02	Unknown
+7	6605	0.02	Unknown
+8	7157	0.02	Unknown
+9	7566	0.02	Unknown
+10	7828	0.02	L-Histidine
+11	8655	0.02	561 - 4-Hydroxycinnamic acid
+12	9474	0.02	L-Phenylalanine (13C6, 99%) (light)
+13	9688	0.02	w/o MS2:Gaultherin
+14	9784	0.02	w/o MS2:1-Methylsulfinylbutenyl isothiocyante;PlaSMA ID-426
+15	9907	0.02	2-(hydroxymethyl)-4(3H)-quinazolinone
+16	10664	0.02	w/o MS2:Methyl gallate
+17	10928	0.02	Unknown
+18	10951	0.02	Indole-3-acrylic acid
+19	11113	0.02	Unknown
+20	11329	0.02	w/o MS2:527 - 5-Hydroxyindoleacetic acid
+21	11747	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-622
+22	11880	0.02	Dibenzylamine
+23	13539	0.02	Unknown
+24	15001	0.02	Unknown
+25	15575	0.04	Unknown
+26	15757	0.02	Unknown
+27	15758	0.02	Unknown
+28	16036	0.02	w/o MS2:(1S,2R,9R,10S,12S)-12-hydroxy-7,15-diazatetracyclo[7.7.1.0^{2,7}.0^{10,15}]heptadecan-6-one
+29	16075	0.02	Unknown
+30	16267	0.02	Unknown
+31	16815	0.02	Unknown
+32	17819	0.02	Unknown
+33	20578	0.02	Unknown
+34	22003	0.02	"w/o MS2:""""MLS001157827-01!N-(3-imidazol-1-ylpropyl)-3-(4-methyl-2-oxo-6,7,8,9-tetrahydro-[1]benzofuro[3,2-g]chromen-3-yl)propanamide"""""
+35	23053	0.02	Unknown
+36	23210	0.02	Unknown
+37	23345	0.02	Unknown
+38	24112	0.02	w/o MS2:C27H40O11;PlaSMA ID-2813
+39	24546	0.02	w/o MS2:S-((3S,10R,13R)-10,13-dimethyl-17-octyl-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-yl) O-(4-nitrophenyl) carbonothioate
+40	24834	0.02	w/o MS2:NCGC00386093-01_C34H43N3O6_
+41	24848	0.02	Unknown
+42	25338	0.02	Unknown
+43	25461	0.02	Unknown
+44	26508	0.02	Unknown
+45	27660	0.02	Unknown
+46	27703	0.02	Unknown
+47	28773	0.02	Unknown
+48	29845	0.02	Unknown

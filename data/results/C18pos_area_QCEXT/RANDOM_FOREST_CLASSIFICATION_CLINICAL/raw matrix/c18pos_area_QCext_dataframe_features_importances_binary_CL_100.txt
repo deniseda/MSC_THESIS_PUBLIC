@@ -1,0 +1,14 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1625	0.02	4-Picoline
+1	2413	0.02	Unknown
+2	4877	0.02	VITAMIN B3 (light)
+3	8402	0.02	Unknown
+4	11496	0.02	w/o MS2:Salsoline
+5	14775	0.02	Unknown
+6	16149	0.02	Unknown
+7	16722	0.02	w/o MS2:methyl 5,6-diacetyloxy-10-hydroxy-2,4b,7,7,10a,12a-hexamethyl-12-methylidene-1,4,8-trioxo-4a,5,6,6a,9,10,10b,11-octahydronaphtho[1,2-h]isochromene-2-carboxylate
+8	18472	0.02	Unknown
+9	23240	0.02	Unknown
+10	24535	0.02	Unknown
+11	27660	0.02	Unknown
+12	28898	0.02	Unknown

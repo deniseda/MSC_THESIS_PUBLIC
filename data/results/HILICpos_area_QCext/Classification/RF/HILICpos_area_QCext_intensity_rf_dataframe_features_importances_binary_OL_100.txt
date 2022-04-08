@@ -1,0 +1,11 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	9121	0.03	w/o MS2:Dipropylene glycol dimethyl ether
+1	12222	0.04	DEET;LC-ESI-ITFT;MS2;CE
+2	14838	0.02	Cystathionine
+3	15606	0.03	w/o MS2:Leucylproline
+4	15610	0.02	Leucylproline
+5	15686	0.02	w/o MS2:Pesticide3_Fenobucarb_C12H17NO2_Bassa
+6	24587	0.02	w/o MS2:MLS001148085-01!85-79-0
+7	33217	0.02	w/o MS2:LPC 18:2;PlaSMA ID-2753
+8	37060	0.02	Unknown
+9	39392	0.05	Unknown

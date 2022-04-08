@@ -1,0 +1,19 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	878	0.01738778611147032	Unknown
+1	1084	0.02282344946435234	Unknown
+2	5707	0.010873833336887524	Unknown
+3	5803	0.01596367497250675	10-Hydroxydecanoic acid
+4	7174	0.01386259108050259	Unknown
+5	7221	0.013436446491722551	Unknown
+6	9709	0.01388423337359708	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+7	10088	0.013255536885461838	w/o MS2:Unknown (carbon number 9);PlaSMA ID-430
+8	10664	0.013626979692900379	Unknown
+9	10873	0.014108717440975995	Unknown
+10	12118	0.010853304329893607	Unknown (carbon number 18);PlaSMA ID-653
+11	13296	0.012839499210466952	Unknown
+12	13467	0.02300199775386263	w/o MS2:Unknown (carbon number 16);PlaSMA ID-814
+13	13745	0.012780217661921455	w/o MS2:5-hydroxy-3,6,7-trimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one
+14	15845	0.014823069130684915	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+15	16368	0.016722396436399757	Unknown
+16	16949	0.011851864035028194	Unknown
+17	18198	0.01639040238351176	w/o MS2:NCGC00380909-01_C34H54O8_(1alpha,3alpha,7alpha,9xi,13alpha,17xi,20xi)-3,21,23-Trihydroxy-4,4,8-trimethyl-24,25-epoxycholest-14-ene-1,7-diyl diacetate

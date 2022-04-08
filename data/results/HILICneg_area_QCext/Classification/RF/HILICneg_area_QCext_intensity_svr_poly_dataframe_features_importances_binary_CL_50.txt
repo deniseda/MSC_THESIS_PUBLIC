@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	286	0.04	Unknown
+1	6665	0.04	Unknown
+2	6866	0.02	Aspartate;LC-ESI-ITFT;MS2;CE 40.0 eV;[M-H]-
+3	11228	0.02	w/o MS2:cis-Aconitic acid
+4	11229	0.02	Aconitic Acid
+5	11233	0.02	Aconitic Acid
+6	11269	0.02	w/o MS2:trans-Aconitic acid
+7	11426	0.02	Unknown
+8	13264	0.02	Unknown
+9	13578	0.02	Citric acid
+10	14238	0.02	Unknown
+11	15871	0.02	Unknown
+12	16397	0.02	Unknown
+13	16634	0.02	Unknown
+14	18741	0.02	Unknown
+15	18852	0.02	Unknown
+16	19647	0.02	Unknown
+17	20227	0.02	Unknown
+18	21227	0.02	w/o MS2:gamma-Glutamylglutamine
+19	21661	0.02	Unknown
+20	21671	0.02	Unknown
+21	22869	0.02	Unknown
+22	23367	0.02	Unknown
+23	23671	0.02	w/o MS2:N-Acetylneuraminic acid
+24	23904	0.02	Unknown
+25	24983	0.02	Unknown
+26	26556	0.02	Unknown
+27	27512	0.02	Unknown
+28	28218	0.02	Unknown
+29	28285	0.02	Unknown
+30	28400	0.02	Unknown
+31	29191	0.02	Unknown
+32	29302	0.02	Unknown
+33	29528	0.02	Unknown
+34	29805	0.02	Unknown
+35	29939	0.02	w/o MS2:[(1S,2R,4aR,8aR)-1-acetyloxy-1,4a-dimethyl-6-oxo-7-propan-2-ylidene-2,3,4,5,8,8a-hexahydronaphthalen-2-yl] 3-acetyloxy-2-hydroxy-2-methylbutanoate
+36	30136	0.02	Unknown
+37	30376	0.02	Unknown
+38	30741	0.02	Unknown
+39	30815	0.02	Unknown
+40	30965	0.02	w/o MS2:FT-sulfonic_acid;C9H5F15O4S
+41	33328	0.02	w/o MS2:12-Cl-Perfluorododecanoic acid
+42	33699	0.02	Unknown
+43	33844	0.02	Unknown
+44	34068	0.02	Unknown
+45	34110	0.02	Unknown
+46	34226	0.02	w/o MS2:PFCA-ether;C14HF27O3
+47	35108	0.02	Unknown

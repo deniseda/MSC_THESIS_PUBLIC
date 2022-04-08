@@ -1,0 +1,13 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	11253	0.02	w/o MS2:cis-Aconitic acid
+1	11255	0.02	w/o MS2:trans-Aconitic acid
+2	11426	0.02	Unknown
+3	13600	0.02	Citric acid
+4	14307	0.02	Unknown
+5	14713	0.02	Unknown
+6	17738	0.02	w/o MS2:8-Methylsulfinyloctyl isothiocyanate
+7	19647	0.02	Unknown
+8	21661	0.02	Unknown
+9	24346	0.02	5-(1,2,4a,5-tetramethyl-7-oxo-3,4,8,8a-tetrahydro-2H-naphthalen-1-yl)-3-methylpentanoic acid
+10	25874	0.03	Unknown
+11	31360	0.02	Unknown

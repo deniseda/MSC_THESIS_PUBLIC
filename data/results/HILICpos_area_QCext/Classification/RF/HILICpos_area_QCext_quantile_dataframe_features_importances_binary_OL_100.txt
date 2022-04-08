@@ -1,0 +1,13 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	894	0.02	w/o MS2:3-Methylpyrazole
+1	2367	0.02	1-Hexylamine;ESI-ITFT;direct injection;MS2;CE
+2	4260	0.02	Unknown
+3	5088	0.02	w/o MS2:Sulcatol
+4	6707	0.03	w/o MS2:Ectoine
+5	9121	0.02	w/o MS2:Dipropylene glycol dimethyl ether
+6	13102	0.02	Unknown
+7	14838	0.02	Cystathionine
+8	15686	0.02	w/o MS2:Pesticide3_Fenobucarb_C12H17NO2_Bassa
+9	20681	0.02	w/o MS2:MMV024311
+10	31835	0.02	Unknown
+11	36677	0.03	Unknown

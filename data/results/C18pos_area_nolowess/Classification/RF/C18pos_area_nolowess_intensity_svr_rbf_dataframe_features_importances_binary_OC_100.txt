@@ -1,0 +1,9 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6708	0.02	Unknown
+1	7141	0.02	Unknown
+2	11781	0.02	Unknown
+3	21047	0.02	Unknown
+4	22044	0.02	Unknown
+5	22174	0.02	Unknown
+6	24553	0.02	Unknown
+7	27862	0.02	Unknown

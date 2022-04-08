@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1612	0.02	Unknown (carbon number 5);PlaSMA ID-18
+1	3447	0.02	Unknown
+2	4119	0.02	462 - Pimelic acid
+3	4577	0.02	12 - Uric acid
+4	4883	0.02	Suberic acid
+5	6473	0.02	Unknown
+6	6667	0.02	Unknown
+7	6679	0.02	519 - Sebacic acid
+8	7319	0.02	Unknown
+9	7577	0.02	Unknown
+10	8121	0.02	Unknown
+11	8226	0.02	Unknown
+12	9133	0.02	Unknown
+13	9364	0.02	Unknown
+14	9421	0.02	Unknown
+15	9818	0.02	Palmitic Acid
+16	9912	0.02	w/o MS2:norlichexanthone
+17	10117	0.02	Unknown
+18	10227	0.02	Unknown
+19	10511	0.02	Unknown
+20	12022	0.02	Unknown
+21	12266	0.04	Unknown
+22	12624	0.02	Unknown
+23	12812	0.02	(15Z)-9,12,13-Trihydroxy-15-octadecenoic acid
+24	12920	0.02	w/o MS2:Chiodectonic acid
+25	13018	0.02	Unknown
+26	14422	0.02	w/o MS2:Dihydrostilbene base + 4O, 2Prenyl;PlaSMA ID-943
+27	14455	0.02	Unknown
+28	14764	0.02	Unknown
+29	14966	0.02	Unknown
+30	15008	0.02	Unknown
+31	15392	0.02	Unknown
+32	15940	0.02	Unknown
+33	15984	0.02	Unknown
+34	16299	0.02	w/o MS2:Pesticide5_Fipronil_C12H4Cl2F6N4OS_5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile
+35	16869	0.02	Unknown
+36	17118	0.02	Unknown
+37	17253	0.02	w/o MS2:NCGC00380230-01_C26H40O9_2,4a,6-Trihydroxy-8-isopropyl-1,1-dimethyl-2,3,4,4a,5,10,11,11a-octahydro-1H-dibenzo[a,d][7]annulen-7-yl beta-D-glucopyranoside
+38	17481	0.02	LPC 18:2;PlaSMA ID-1554
+39	17557	0.02	Unknown
+40	17747	0.02	Unknown
+41	17955	0.02	Unknown
+42	17996	0.02	Unknown
+43	18016	0.02	Unknown
+44	18050	0.02	Unknown
+45	18584	0.02	Unknown
+46	18616	0.02	Unknown
+47	18684	0.02	Unknown
+48	18701	0.02	Unknown

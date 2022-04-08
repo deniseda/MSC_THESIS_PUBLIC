@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	232	0.02	129 - Methylguanidine
+1	723	0.02	Unknown
+2	1625	0.02	4-Picoline
+3	1827	0.02	Unknown
+4	1899	0.02	Unknown
+5	3570	0.04	Creatinine
+6	4291	0.02	w/o MS2:Benzamide
+7	4504	0.02	w/o MS2:Nicotinamide
+8	5142	0.02	Isoquinoline
+9	5738	0.02	CREATINE (light)
+10	7828	0.02	L-Histidine
+11	8482	0.04	Unknown
+12	8624	0.02	Unknown
+13	9376	0.02	Unknown
+14	9982	0.02	Unknown
+15	9997	0.02	w/o MS2:C10H11NO2;PlaSMA ID-458
+16	10784	0.02	w/o MS2:O-PHOSPHO-L-SERINE
+17	10958	0.02	L-Tyrosine (13C6, 99%) (light)
+18	11113	0.02	Unknown
+19	11496	0.02	w/o MS2:Salsoline
+20	11773	0.02	Unknown
+21	11774	0.02	Unknown
+22	11897	0.02	Unknown
+23	12513	0.02	w/o MS2:Sorbitol
+24	12531	0.02	Tryptophan
+25	12753	0.02	w/o MS2:PYRIDOXINE
+26	12911	0.02	Unknown
+27	13094	0.04	w/o MS2:Shikimic Acid
+28	15997	0.02	Unknown
+29	16990	0.02	Unknown
+30	17239	0.02	Unknown
+31	17765	0.02	Unknown
+32	19975	0.02	w/o MS2:rabelomycin
+33	20795	0.02	Unknown
+34	20929	0.02	Unknown
+35	21291	0.02	w/o MS2:eudesmin
+36	21929	0.02	Unknown
+37	22083	0.02	Unknown
+38	22143	0.02	Unknown
+39	22657	0.02	w/o MS2:MLS002153807-01!Cisapride81098-60-4
+40	22726	0.02	Unknown
+41	23150	0.02	Unknown
+42	23242	0.02	Unknown
+43	23715	0.02	LPC 18:2;PlaSMA ID-2753
+44	24505	0.02	w/o MS2:7,15-bis(3,4-dimethoxyphenyl)-19-oxa-4,18-diazahexacyclo[10.6.1.0?,?.0?,?.0??,??.0??,??]nonadec-8-en-12-ol
+45	24856	0.02	Unknown
+46	25383	0.02	Unknown

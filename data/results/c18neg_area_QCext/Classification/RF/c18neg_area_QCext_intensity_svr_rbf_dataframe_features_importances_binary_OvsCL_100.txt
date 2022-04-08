@@ -1,0 +1,14 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	878	0.012873474676724138	Unknown
+1	1083	0.014100846979107849	Unknown
+2	5616	0.013317282211463794	Unknown
+3	5803	0.01423608922323814	10-Hydroxydecanoic acid
+4	7174	0.022837437010682877	Unknown
+5	9201	0.011867942418671238	Arabinofuranosyluracil
+6	10087	0.010267955787237638	w/o MS2:Unknown (carbon number 9);PlaSMA ID-430
+7	10664	0.016496691591656423	Unknown
+8	12118	0.010645715262849324	Unknown (carbon number 18);PlaSMA ID-653
+9	13296	0.014442273652389932	Unknown
+10	15063	0.024439479713134888	w/o MS2:[(2R,3S,4R)-5-(2,4-dioxopyrimidin-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 4-hydroxy-2-methoxy-6-methylbenzoate
+11	15845	0.018494108501254432	w/o MS2:(Z)-2,6-dimethyl-7-(4-methyl-5-oxooxolan-2-yl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]hept-5-enoic acid
+12	17484	0.010346351279563933	LPC 18:2;PlaSMA ID-1556

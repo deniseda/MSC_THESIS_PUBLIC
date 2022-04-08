@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	363	0.02	Unknown
+1	4105	0.04	2-Furoic acid
+2	6428	0.02	Itaconic acid (Not validated);PlaSMA ID-45
+3	8185	0.02	Unknown
+4	8828	0.02	w/o MS2:2-Oxoglutaric acid;LC-ESI-ITFT;MS2;m/z
+5	10365	0.02	Unknown
+6	11269	0.02	w/o MS2:trans-Aconitic acid
+7	13537	0.02	Citric acid
+8	13539	0.02	5 - Citric acid
+9	13578	0.02	Citric acid
+10	13589	0.02	5 - Citric acid
+11	13648	0.02	5 - Citric acid
+12	15862	0.04	Unknown
+13	18070	0.02	Unknown
+14	18741	0.02	Unknown
+15	19647	0.02	Unknown
+16	20229	0.02	Unknown
+17	20606	0.02	Unknown
+18	21662	0.02	Unknown
+19	21681	0.02	Unknown
+20	21990	0.04	Unknown
+21	22187	0.04	Unknown
+22	23367	0.02	Unknown
+23	24277	0.02	Unknown
+24	24983	0.02	Unknown
+25	25650	0.02	Unknown
+26	25764	0.02	2'-Deoxyguanosine 5'-monophosphate
+27	25833	0.02	Unknown
+28	26916	0.02	Unknown
+29	26977	0.02	Unknown
+30	27264	0.02	Unknown
+31	28224	0.02	Unknown
+32	28285	0.02	Unknown
+33	28701	0.02	Unknown
+34	29004	0.02	Unknown
+35	29259	0.02	Unknown
+36	30376	0.02	Unknown
+37	30442	0.02	Unknown
+38	30783	0.02	Unknown
+39	30815	0.02	Unknown
+40	30882	0.02	Unknown
+41	31002	0.02	Unknown
+42	31259	0.02	Unknown
+43	31933	0.02	Unknown
+44	33861	0.02	Unknown
+45	34162	0.02	Unknown

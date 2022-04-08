@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1482	0.02	Unknown
+1	1611	0.02	2-Furoic acid
+2	1869	0.02	390 - Maleic acid
+3	2267	0.04	w/o MS2:PURINE
+4	2395	0.02	Taurine
+5	2671	0.02	Ketoleucine
+6	2967	0.02	72 - D-Malic acid
+7	3347	0.02	Unknown
+8	3452	0.02	Unknown
+9	3904	0.02	Unknown
+10	4885	0.02	cis-Aconitate
+11	5054	0.02	Unknown
+12	6042	0.02	Citric acid
+13	7246	0.02	Unknown
+14	7308	0.02	Unknown
+15	8329	0.02	w/o MS2:Helenine
+16	8805	0.02	Unknown
+17	9394	0.02	Unknown
+18	10042	0.02	Unknown
+19	10094	0.02	w/o MS2:Sorbitol 6-phosphate
+20	10376	0.02	Unknown
+21	10873	0.02	Unknown
+22	11673	0.02	Unknown
+23	11760	0.02	w/o MS2:Thymidine-3',5'-cyclic monophosphate  sodium salt
+24	11826	0.02	Unknown
+25	12040	0.02	Unknown
+26	12070	0.02	w/o MS2:Unknown (carbon number 17);PlaSMA ID-639
+27	12685	0.02	Unknown
+28	13042	0.02	w/o MS2:coumaroylquinic acid
+29	14455	0.02	Unknown
+30	14509	0.02	Unknown
+31	14652	0.02	Unknown
+32	14807	0.02	Unknown
+33	15011	0.02	Unknown
+34	15117	0.02	w/o MS2:beta-TOXICAROL
+35	15777	0.02	Unknown
+36	15924	0.02	Unknown
+37	15940	0.02	Unknown
+38	16297	0.02	Unknown
+39	16532	0.02	Unknown
+40	16564	0.02	Unknown
+41	16578	0.02	Unknown
+42	16666	0.02	Unknown
+43	16756	0.02	w/o MS2:Phosphatidylethanolamine lyso 20
+44	17376	0.02	Unknown
+45	17557	0.02	Unknown
+46	17832	0.02	Unknown
+47	18177	0.02	Unknown
+48	18584	0.02	Unknown

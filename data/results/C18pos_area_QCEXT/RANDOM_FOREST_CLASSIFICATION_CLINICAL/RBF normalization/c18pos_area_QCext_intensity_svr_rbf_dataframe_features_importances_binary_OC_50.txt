@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	795	0.02	Unknown
+1	1191	0.02	143 - Putrescine
+2	1549	0.02	Unknown
+3	1625	0.02	4-Picoline
+4	4206	0.04	Unknown
+5	4877	0.02	VITAMIN B3 (light)
+6	5142	0.02	Isoquinoline
+7	5642	0.02	Unknown
+8	5925	0.02	Unknown
+9	6403	0.02	Unknown
+10	6605	0.02	Unknown
+11	9038	0.02	12 - Uric acid
+12	9982	0.04	Unknown
+13	10239	0.02	Unknown
+14	10928	0.02	Unknown
+15	11135	0.02	w/o MS2:MLS002694822-01!2-oxo-1H-quinoline-4-carboxylic acid
+16	12365	0.02	Unknown
+17	12378	0.02	Theophylline
+18	12760	0.02	w/o MS2:PYRIDOXINE
+19	13361	0.02	Unknown
+20	14062	0.02	w/o MS2:2-nitro-9-fluorenone
+21	14659	0.04	Unknown
+22	15677	0.02	Unknown
+23	15803	0.02	Unknown
+24	16149	0.04	Unknown
+25	17172	0.02	Unknown
+26	17343	0.02	Unknown
+27	17571	0.02	w/o MS2:Unknown (carbon number 18);PlaSMA ID-1550
+28	17765	0.02	Unknown
+29	19187	0.02	w/o MS2:Hematein
+30	20028	0.02	w/o MS2:382 - Cortisol
+31	20705	0.02	Unknown
+32	20860	0.02	Unknown
+33	21439	0.02	Unknown
+34	22317	0.02	Unknown
+35	22452	0.02	w/o MS2:korseveriline
+36	22498	0.02	w/o MS2:(3a1R,4R,5S,5aR,10bR)-methyl 4-acetoxy-3a-ethyl-5-hydroxy-8-methoxy-6-methyl-3a,3a1,4,5,5a,6,11,12-octahydro-1H-indolizino[8,1-cd]carbazole-5-carboxylate
+37	22726	0.02	Unknown
+38	24127	0.02	Unknown
+39	24132	0.02	Unknown
+40	24175	0.02	Unknown
+41	24218	0.02	Unknown
+42	24505	0.02	w/o MS2:7,15-bis(3,4-dimethoxyphenyl)-19-oxa-4,18-diazahexacyclo[10.6.1.0?,?.0?,?.0??,??.0??,??]nonadec-8-en-12-ol
+43	26360	0.02	Unknown
+44	27713	0.02	Unknown
+45	27792	0.02	Unknown

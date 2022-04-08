@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	2099	0.03	Unknown
+1	4105	0.02	2-Furoic acid
+2	11380	0.02	Arginine
+3	13508	0.03	w/o MS2:Citric acid
+4	13568	0.02	5 - Citric acid
+5	13571	0.02	Citric acid
+6	14814	0.03	Unknown
+7	19647	0.02	Unknown
+8	21228	0.02	Glu-Gln
+9	21529	0.02	Unknown
+10	24648	0.02	Unknown
+11	24983	0.03	Unknown
+12	28107	0.02	Unknown
+13	28545	0.02	Unknown
+14	30136	0.03	Unknown

@@ -1,0 +1,49 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	554	0.02	Unknown
+1	1191	0.02	143 - Putrescine
+2	3011	0.02	Unknown
+3	3576	0.02	Creatinine
+4	3794	0.02	Unknown
+5	4993	0.02	w/o MS2:4-Amino-2-chloropyridine;ESI-ITFT;direct injection;MS2;CE
+6	5262	0.04	Unknown
+7	6191	0.02	Unknown
+8	6605	0.02	Unknown
+9	6674	0.02	Unknown
+10	9690	0.02	w/o MS2:Gaultherin
+11	9691	0.02	w/o MS2:Gaultherin
+12	9956	0.02	Unknown
+13	10951	0.02	Indole-3-acrylic acid
+14	10957	0.02	w/o MS2:Hordenine
+15	11113	0.02	Unknown
+16	11897	0.02	Unknown
+17	12401	0.02	w/o MS2:sebacic acid
+18	12489	0.02	w/o MS2:PYROGALLIN
+19	13910	0.02	Unknown
+20	14294	0.02	Prolylleucine
+21	14542	0.02	Unknown
+22	14784	0.02	Unknown
+23	15053	0.02	Unknown
+24	15223	0.02	w/o MS2:aspernigrin A
+25	15368	0.02	w/o MS2:NCGC00380110-01_C16H26O3_1-Propanone, 3-hydroxy-1-[(1R,2R,4aR,6S,8aS)-1,2,4a,5,6,7,8,8a-octahydro-2-hydroxy-1,2,6-trimethyl-1-naphthalenyl]-
+26	15677	0.02	Unknown
+27	16403	0.02	Unknown
+28	17037	0.02	Unknown
+29	17343	0.04	Unknown
+30	17933	0.02	Unknown
+31	18022	0.02	w/o MS2:N-Acetylneuraminic acid
+32	18612	0.02	Unknown
+33	19247	0.02	Unknown
+34	19675	0.02	Unknown
+35	19975	0.02	w/o MS2:rabelomycin
+36	21333	0.02	Unknown
+37	21442	0.02	Unknown
+38	21930	0.02	Unknown
+39	22668	0.02	420 - Glycocholic acid
+40	22996	0.02	Unknown
+41	23240	0.02	Unknown
+42	23776	0.02	LPC 18:1;PlaSMA ID-2759
+43	23879	0.02	Unknown
+44	24536	0.02	Unknown
+45	25461	0.02	Unknown
+46	27792	0.02	Unknown
+47	28233	0.02	Unknown

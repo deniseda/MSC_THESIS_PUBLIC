@@ -1,0 +1,14 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1102	0.02	w/o MS2:Butanoic acid
+1	6731	0.02	Unknown
+2	8688	0.02	Unknown
+3	9416	0.02	Unknown
+4	9670	0.03	Unknown
+5	10092	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-523
+6	10778	0.02	w/o MS2:8-methanesulfinyloctan-1-amine;PlaSMA ID-577
+7	15553	0.02	w/o MS2:lysergol
+8	18541	0.02	Unknown
+9	21196	0.02	Unknown
+10	22647	0.02	Unknown
+11	27892	0.02	Unknown
+12	28049	0.02	Unknown

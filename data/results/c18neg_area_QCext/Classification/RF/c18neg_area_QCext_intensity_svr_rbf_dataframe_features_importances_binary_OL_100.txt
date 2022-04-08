@@ -1,0 +1,16 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1083	0.03	Unknown
+1	1084	0.02	Unknown
+2	2139	0.02	DL-2-Hydroxyvaleric acid;LC-ESI-QTOF;MS2;CE
+3	5345	0.02	L-Tyrosine;LC-ESI-ITFT;MS2;m/z
+4	9709	0.02	FA 9:0 + 1O, sulfate;PlaSMA ID-416
+5	10473	0.02	Unknown
+6	11191	0.02	w/o MS2:NCGC00380665-01_C16H18O5_(8E)-11,13-Dihydroxy-4-methyl-4,5,6,7-tetrahydro-2H-3-benzoxacyclododecine-2,10(1H)-dione
+7	13045	0.02	w/o MS2:Chalcone base + 2O, 1MeO, 1Prenyl;PlaSMA ID-767
+8	13272	0.02	w/o MS2:santin
+9	13296	0.05	Unknown
+10	14459	0.02	Unknown
+11	15251	0.02	w/o MS2:Hexose + C13H19O (isomer of 1061);PlaSMA ID-1062
+12	15284	0.02	w/o MS2:C20H34O9;PlaSMA ID-1074
+13	16575	0.02	Unknown
+14	17687	0.02	w/o MS2:NCGC00380386-01!13-hydroxy-6-(1-hydroxyethyl)-12,14-dimethyl-3-methylidene-15-nonyl-9-propan-2-yl-1-oxa-4,7,10-triazacyclopentadecane-2,5,8,11-tetrone

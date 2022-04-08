@@ -1,0 +1,6 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6071	0.02	5 - Citric acid
+1	10581	0.02	w/o MS2:gamma-Glutamylglutamine
+2	11388	0.02	Unknown
+3	15046	0.02	Unknown
+4	15304	0.03	Unknown

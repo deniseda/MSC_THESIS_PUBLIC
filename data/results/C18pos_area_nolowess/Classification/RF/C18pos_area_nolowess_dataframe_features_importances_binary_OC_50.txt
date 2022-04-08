@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1852	0.02	Unknown
+1	1967	0.02	w/o MS2:Unknown (carbon number 5);PlaSMA ID-14
+2	4251	0.02	Unknown
+3	4637	0.02	Unknown
+4	4892	0.02	Unknown
+5	6656	0.02	Unknown
+6	6949	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-222
+7	7112	0.02	Unknown
+8	7854	0.02	Unknown
+9	10708	0.02	w/o MS2:C10H9NO3;PlaSMA ID-569
+10	10935	0.02	Unknown
+11	11139	0.02	w/o MS2:502 - Vanillylmandelic acid
+12	11538	0.02	Unknown
+13	12460	0.02	Unknown
+14	12777	0.02	Unknown
+15	13406	0.02	Unknown
+16	13510	0.02	Unknown
+17	13700	0.02	Unknown
+18	14002	0.02	Unknown
+19	14013	0.02	w/o MS2:48 - L-Cystine
+20	14670	0.04	Unknown
+21	14863	0.02	Unknown
+22	14925	0.02	Unknown
+23	14960	0.02	Unknown
+24	15211	0.02	Unknown
+25	15215	0.02	Unknown
+26	15283	0.02	Unknown
+27	15319	0.02	Unknown
+28	15998	0.02	Unknown
+29	16560	0.02	Unknown
+30	16571	0.02	Unknown
+31	19273	0.02	Unknown
+32	19282	0.02	w/o MS2:matairesinol
+33	19790	0.02	Unknown
+34	19885	0.02	Unknown
+35	20050	0.02	Unknown
+36	21122	0.02	Unknown
+37	22207	0.02	Unknown
+38	22343	0.02	LPC 18:1;PlaSMA ID-2759
+39	22388	0.02	Unknown
+40	23529	0.02	Unknown
+41	24478	0.02	Unknown
+42	24705	0.02	Unknown
+43	24724	0.02	Unknown
+44	24871	0.02	Unknown
+45	25551	0.02	Unknown
+46	26640	0.02	Unknown
+47	26800	0.02	Unknown
+48	27492	0.02	Unknown

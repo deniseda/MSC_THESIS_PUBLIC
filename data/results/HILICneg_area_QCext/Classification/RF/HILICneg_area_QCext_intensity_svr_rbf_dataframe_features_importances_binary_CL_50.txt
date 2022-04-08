@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6424	0.02	w/o MS2:Citraconic acid
+1	8185	0.02	Unknown
+2	11228	0.02	w/o MS2:cis-Aconitic acid
+3	11249	0.02	trans-Aconitic acid;LC-ESI-QTOF;MS2;CE
+4	11269	0.02	w/o MS2:trans-Aconitic acid
+5	11300	0.02	Aconitic Acid
+6	11380	0.02	Arginine
+7	11838	0.04	Unknown
+8	13539	0.02	5 - Citric acid
+9	13578	0.02	Citric acid
+10	13626	0.02	5 - Citric acid
+11	13989	0.02	Unknown
+12	14063	0.02	Unknown
+13	14289	0.02	Unknown
+14	15437	0.02	Unknown
+15	18070	0.02	Unknown
+16	20182	0.02	374 - Glucose 1-phosphate
+17	21662	0.02	Unknown
+18	21671	0.02	Unknown
+19	21681	0.02	Unknown
+20	21990	0.06	Unknown
+21	22187	0.02	Unknown
+22	22862	0.02	Unknown
+23	23256	0.02	Unknown
+24	23901	0.02	Unknown
+25	24014	0.02	Unknown
+26	24277	0.02	Unknown
+27	25420	0.02	Unknown
+28	25879	0.02	Unknown
+29	26916	0.02	Unknown
+30	27262	0.02	Unknown
+31	27971	0.02	Unknown
+32	28248	0.02	Unknown
+33	28548	0.02	Unknown
+34	28680	0.02	Unknown
+35	29639	0.02	Unknown
+36	29840	0.02	Unknown
+37	29869	0.02	Unknown
+38	30965	0.02	w/o MS2:FT-sulfonic_acid;C9H5F15O4S
+39	31259	0.02	Unknown
+40	31262	0.02	Unknown
+41	31368	0.02	w/o MS2:PFSA-unsaturated;C9HF17O3S
+42	31504	0.02	Unknown
+43	32084	0.02	Unknown
+44	33846	0.02	Unknown
+45	33861	0.02	Unknown
+46	34011	0.02	Unknown

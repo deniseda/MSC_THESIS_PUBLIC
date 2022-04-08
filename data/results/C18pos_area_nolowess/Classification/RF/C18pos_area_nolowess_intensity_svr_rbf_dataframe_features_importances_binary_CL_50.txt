@@ -1,0 +1,50 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	572	0.02	Unknown
+1	1962	0.02	w/o MS2:Unknown (carbon number 5);PlaSMA ID-14
+2	1979	0.02	w/o MS2:N-Methyl-2-pyrrolidone
+3	2176	0.02	Unknown
+4	4008	0.02	Unknown
+5	4476	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-71
+6	5123	0.02	w/o MS2:L-Norleucine
+7	5238	0.02	Unknown
+8	5376	0.02	Unknown
+9	5754	0.02	w/o MS2:45 - O-Phosphoethanolamine
+10	5782	0.02	betaine
+11	6027	0.02	w/o MS2:Unknown (carbon number 6);PlaSMA ID-163
+12	6458	0.02	Unknown
+13	6636	0.02	w/o MS2:501 - Mevalonic acid
+14	6941	0.02	Unknown
+15	7493	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-275
+16	8009	0.02	Unknown
+17	8021	0.02	Unknown
+18	8042	0.02	Unknown
+19	8648	0.02	w/o MS2:Unknown (carbon number 7);PlaSMA ID-388
+20	10278	0.02	Unknown
+21	10506	0.02	Unknown
+22	11128	0.02	Unknown
+23	12211	0.02	Unknown
+24	13179	0.02	w/o MS2:225 - 3-Nitrotyrosine
+25	15276	0.02	Unknown
+26	16004	0.02	Unknown
+27	16174	0.02	Unknown
+28	16560	0.02	Unknown
+29	17174	0.02	Unknown
+30	17524	0.02	Unknown
+31	17533	0.02	Unknown
+32	17574	0.02	Unknown
+33	18203	0.02	w/o MS2:239 - Lauroyl-L-carnitine
+34	18922	0.02	Unknown
+35	19199	0.02	Unknown
+36	19423	0.02	Unknown
+37	20314	0.02	Unknown
+38	20671	0.02	Unknown
+39	20706	0.02	Unknown
+40	21616	0.02	Unknown
+41	21693	0.02	Unknown
+42	21714	0.02	Unknown
+43	22441	0.02	Unknown
+44	23366	0.02	Unknown
+45	23444	0.02	Unknown
+46	23820	0.02	Unknown
+47	25866	0.04	Unknown
+48	26956	0.02	Unknown

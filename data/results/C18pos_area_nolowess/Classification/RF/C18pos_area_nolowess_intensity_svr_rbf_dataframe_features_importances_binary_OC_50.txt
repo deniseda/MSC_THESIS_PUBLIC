@@ -1,0 +1,51 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	572	0.02	Unknown
+1	1963	0.02	w/o MS2:Unknown (carbon number 5);PlaSMA ID-14
+2	2473	0.02	Unknown
+3	4436	0.02	Unknown
+4	5132	0.02	w/o MS2:CREATINE
+5	5563	0.02	Unknown
+6	5565	0.02	Unknown
+7	5941	0.02	Unknown
+8	6490	0.02	Unknown
+9	6655	0.02	w/o MS2:Unknown (carbon number 11);PlaSMA ID-200
+10	6949	0.02	w/o MS2:Unknown (carbon number 8);PlaSMA ID-222
+11	7208	0.02	Unknown
+12	8021	0.02	Unknown
+13	8144	0.02	Unknown
+14	8607	0.02	w/o MS2:Unknown (carbon number 10);PlaSMA ID-384
+15	9599	0.02	Unknown
+16	10935	0.02	Unknown
+17	11825	0.02	Tryptophan;LC-ESI-QTOF;MS2;CE
+18	11922	0.02	Unknown
+19	12155	0.02	Unknown
+20	12177	0.02	Unknown
+21	12460	0.02	Unknown
+22	13179	0.02	w/o MS2:225 - 3-Nitrotyrosine
+23	14669	0.02	Unknown
+24	14843	0.02	Unknown
+25	15362	0.02	Unknown
+26	15444	0.02	Unknown
+27	15560	0.02	Unknown
+28	15998	0.02	Unknown
+29	16610	0.02	Unknown
+30	17275	0.02	Unknown
+31	17399	0.02	Unknown
+32	17546	0.02	Unknown
+33	18063	0.02	Unknown
+34	18216	0.02	Unknown
+35	19282	0.02	w/o MS2:matairesinol
+36	19370	0.02	Unknown
+37	19719	0.02	Unknown
+38	20125	0.02	Unknown
+39	20279	0.02	Unknown
+40	20784	0.02	Unknown
+41	21332	0.02	Unknown
+42	21680	0.02	Unknown
+43	22857	0.02	Unknown
+44	23541	0.02	Unknown
+45	23565	0.02	Unknown
+46	23820	0.02	Unknown
+47	23824	0.02	Unknown
+48	24748	0.02	Unknown
+49	27492	0.02	Unknown

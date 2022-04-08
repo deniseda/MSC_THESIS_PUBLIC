@@ -1,0 +1,12 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	7628	0.010854332825064534	w/o MS2:MLS002153907-01!Cinchonine118-10-5
+1	8242	0.011245037943455397	Unknown
+2	9121	0.020106146304675717	w/o MS2:Dipropylene glycol dimethyl ether
+3	11896	0.011847489300474533	w/o MS2:Homoarginine
+4	13984	0.025941646557389876	w/o MS2:315 - 3-Methoxytyrosine
+5	14838	0.021196922446922447	Cystathionine
+6	18479	0.011601342404231062	w/o MS2:Prenyletin
+7	27907	0.01084144592913571	Unknown
+8	29435	0.014910095481678761	w/o MS2:veratramine
+9	31859	0.011329260606681699	Unknown
+10	35750	0.02030273715720016	w/o MS2:NCGC00385384-01![(6R)-6-hydroxy-2-methyl-5-oxo-6-[(2S,3S,9R,13R,14S,16R)-2,3,16-trihydroxy-4,4,9,13,14-pentamethyl-11-oxo-1,2,3,7,8,10,12,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl]heptan-2-yl] acetate

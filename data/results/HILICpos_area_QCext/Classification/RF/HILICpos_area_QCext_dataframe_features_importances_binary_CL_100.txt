@@ -1,0 +1,7 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	8574	0.02	w/o MS2:2,2,6,6-Tetramethyl-4-piperidinol
+1	13454	0.02	Unknown
+2	13862	0.02	Unknown
+3	18571	0.03	w/o MS2:NCGC00386092-01_C11H18N2O4_
+4	24993	0.02	Unknown
+5	30371	0.02	Unknown

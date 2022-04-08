@@ -1,0 +1,7 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	6136	0.02	w/o MS2:NP-018661
+1	6740	0.02	Unknown
+2	7415	0.03	L-Histidine
+3	9416	0.02	Unknown
+4	15243	0.02	w/o MS2:Unknown (carbon number 20);PlaSMA ID-1208
+5	19675	0.02	Unknown

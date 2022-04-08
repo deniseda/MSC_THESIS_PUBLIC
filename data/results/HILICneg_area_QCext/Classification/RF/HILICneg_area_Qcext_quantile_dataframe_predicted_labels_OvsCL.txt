@@ -1,0 +1,16 @@
+	true_labels	predict_labels_100	predicted_labels_75	predicted_labels_50
+0	control_local	control_local	control_local	control_local
+1	control_local	control_local	control_local	control_local
+2	control_local	onset	control_local	onset
+3	control_local	control_local	control_local	control_local
+4	control_local	control_local	control_local	control_local
+5	onset	onset	onset	onset
+6	onset	control_local	control_local	onset
+7	onset	onset	onset	onset
+8	onset	onset	control_local	onset
+9	onset	onset	onset	onset
+10	control_local	control_local	onset	onset
+11	control_local	control_local	control_local	control_local
+12	onset	onset	control_local	onset
+13	control_local	control_local	control_local	control_local
+14	control_local	onset	control_local	onset

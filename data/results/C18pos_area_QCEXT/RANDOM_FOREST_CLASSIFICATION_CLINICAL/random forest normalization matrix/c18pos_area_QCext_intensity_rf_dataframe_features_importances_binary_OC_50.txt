@@ -1,0 +1,45 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1352	0.04	Unknown
+1	2280	0.04	Unknown
+2	4504	0.02	w/o MS2:Nicotinamide
+3	4956	0.02	w/o MS2:N-Cyclohexylformamide
+4	5142	0.04	Isoquinoline
+5	5463	0.02	6-Methylindole
+6	5642	0.02	Unknown
+7	6674	0.02	Unknown
+8	8166	0.02	1,5-Naphthalenediamine
+9	8482	0.02	Unknown
+10	8624	0.02	Unknown
+11	8747	0.04	Unknown
+12	8875	0.02	w/o MS2:3-hydroxy-4-methoxy-2,3-dihydropyran-6-one
+13	9376	0.02	Unknown
+14	9982	0.02	Unknown
+15	9997	0.04	w/o MS2:C10H11NO2;PlaSMA ID-458
+16	10957	0.02	w/o MS2:Hordenine
+17	11897	0.02	Unknown
+18	11899	0.02	Unknown
+19	12810	0.02	Unknown
+20	13094	0.02	w/o MS2:Shikimic Acid
+21	13098	0.02	w/o MS2:Shikimic Acid
+22	14070	0.02	w/o MS2:Synephrine hydrochloride
+23	15803	0.02	Unknown
+24	16297	0.02	Unknown
+25	17343	0.02	Unknown
+26	17393	0.02	w/o MS2:Unknown (carbon number 18);PlaSMA ID-1521
+27	17539	0.02	w/o MS2:picein
+28	18825	0.02	w/o MS2:iodinated analogue of makaluvone
+29	21714	0.02	Unknown
+30	21930	0.02	Unknown
+31	22085	0.02	Unknown
+32	22347	0.02	Unknown
+33	22380	0.02	Unknown
+34	22768	0.02	Unknown
+35	23100	0.02	Unknown
+36	23332	0.02	taurohyodeoxycholic acid
+37	23564	0.02	Unknown
+38	23578	0.02	Unknown
+39	23595	0.02	Unknown
+40	23963	0.02	Unknown
+41	25945	0.04	Unknown
+42	27242	0.02	w/o MS2:Pseudacyclin A
+43	29582	0.02	Unknown

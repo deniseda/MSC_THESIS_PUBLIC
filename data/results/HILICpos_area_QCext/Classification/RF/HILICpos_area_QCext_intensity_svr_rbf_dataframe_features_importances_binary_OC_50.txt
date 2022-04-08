@@ -1,0 +1,47 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	583	0.02	Unknown
+1	1233	0.02	Unknown
+2	2833	0.02	DIETHANOLAMINE
+3	4259	0.02	Unknown
+4	4370	0.02	Unknown
+5	6441	0.02	Unknown
+6	6707	0.02	w/o MS2:Ectoine
+7	7116	0.02	Unknown
+8	7822	0.02	w/o MS2:Triethanolamine
+9	8718	0.02	w/o MS2:TRIGONELLINE
+10	8979	0.02	w/o MS2:DL-Carnitine
+11	10610	0.04	Unknown
+12	11887	0.02	w/o MS2:N6-Acetyl-L-lysine
+13	11896	0.02	w/o MS2:Homoarginine
+14	13426	0.02	w/o MS2:MLS001050066-01!2-phenylquinoline
+15	14838	0.02	Cystathionine
+16	16734	0.02	Unknown
+17	17603	0.02	Unknown
+18	18072	0.02	Unknown
+19	18571	0.02	w/o MS2:NCGC00386092-01_C11H18N2O4_
+20	20138	0.02	w/o MS2:2,3',4,6-Tetrahydroxybenzophenone
+21	20650	0.02	Unknown
+22	21012	0.02	Unknown
+23	21101	0.02	Unknown
+24	21748	0.02	Unknown
+25	23070	0.02	Unknown
+26	24555	0.04	Unknown
+27	27010	0.02	Unknown
+28	27230	0.02	Unknown
+29	27773	0.06	Unknown
+30	29249	0.02	Unknown
+31	29269	0.02	Unknown
+32	30188	0.02	Unknown
+33	30371	0.02	Unknown
+34	30510	0.02	w/o MS2:LPE 16:0;PlaSMA ID-2476
+35	30697	0.02	Unknown
+36	30785	0.02	Unknown
+37	33028	0.02	Unknown
+38	33655	0.02	w/o MS2:14-(acetyloxy)-6-(furan-3-yl)-12-hydroxy-1,7,11,15,15-pentamethyl-5-oxo-3-oxapentacyclo[8.8.0.0?,?.0?,?.0??,??]octadecan-18-yl acetate
+39	36784	0.02	Unknown
+40	37235	0.02	Unknown
+41	38364	0.02	Unknown
+42	39273	0.02	Unknown
+43	40477	0.02	Unknown
+44	40618	0.02	Unknown
+45	40919	0.02	Unknown

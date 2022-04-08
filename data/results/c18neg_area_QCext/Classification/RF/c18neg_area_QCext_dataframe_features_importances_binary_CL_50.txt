@@ -1,0 +1,48 @@
+	Metabolite ID	Feature Importance	Metabolite name
+0	1084	0.04	Unknown
+1	1385	0.02	(2R)-2,3-Dihydroxypropanoic acid
+2	2390	0.02	Unknown
+3	2725	0.02	w/o MS2:trans-4-Hydroxy-L-proline
+4	3409	0.02	Unknown
+5	4885	0.02	cis-Aconitate
+6	4992	0.06	Unknown
+7	6044	0.02	Citric acid
+8	6596	0.02	Unknown
+9	7180	0.02	Unknown
+10	7445	0.02	w/o MS2:5-Methoxypsoralen
+11	7577	0.02	Unknown
+12	8527	0.02	Unknown
+13	10117	0.02	Unknown
+14	10223	0.02	Unknown
+15	10362	0.02	Unknown
+16	10815	0.02	9Z,12Z-Linoleic acid (NMR)
+17	11231	0.02	Unknown
+18	11370	0.02	w/o MS2:Myristyl sulfate
+19	11733	0.02	Unknown
+20	12070	0.02	w/o MS2:Unknown (carbon number 17);PlaSMA ID-639
+21	12716	0.02	Unknown
+22	12849	0.02	w/o MS2:PFSA-Cl;C4HClF8O4S
+23	13227	0.02	Unknown
+24	13300	0.02	Unknown
+25	13717	0.02	Unknown
+26	13797	0.02	Unknown
+27	14517	0.02	Unknown
+28	14966	0.02	Unknown
+29	15018	0.02	Unknown
+30	15117	0.02	w/o MS2:beta-TOXICAROL
+31	15131	0.02	Unknown
+32	15297	0.02	Unknown
+33	15598	0.02	w/o MS2:[(2R)-2-[(E,2S,4R)-4,6-dimethyloct-6-en-2-yl]-6-oxo-2,3-dihydropyran-3-yl] (2E,4E,6S)-8-hydroxy-6-(hydroxymethyl)-4-methylocta-2,4-dienoate
+34	15778	0.02	Unknown
+35	15984	0.02	Unknown
+36	16023	0.02	Unknown
+37	16140	0.02	Unknown
+38	16393	0.02	w/o MS2:NCGC00347765-02![(7R)-5-chloro-3-[(1E,3E,5S)-3,5-dimethylhepta-1,3-dienyl]-2-(2-hydroxyethyl)-7-methyl-6,8-dioxoisoquinolin-7-yl] acetate
+39	16666	0.02	Unknown
+40	16794	0.02	Unknown
+41	16867	0.02	w/o MS2:Phosphatidylcholine lyso 15
+42	17538	0.02	Unknown
+43	17617	0.02	Unknown
+44	17731	0.02	Unknown
+45	18042	0.02	Unknown
+46	18823	0.02	Unknown
