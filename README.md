@@ -1,4 +1,5 @@
 # MSC THESIS OF DENISE D'AURIA
+# Public repository with only results and jupyter notebooks 
 
 ## Supervisor: Prof.ssa Stefania Gonfloni
 
