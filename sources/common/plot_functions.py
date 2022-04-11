@@ -93,6 +93,8 @@ def plot_distribution(dataframe, title,kde = True, ylim = None):
 def plot_metabolite(x_qc, y_qc, x_sample, y_sample,  xsize, ysize, title, color_qc = 'red', color_sample = 'black', marker_qc= 'X', marker_sample = 'H' ):
 	plt.figure(figsize=(xsize, ysize))
 	plt.title(title)
+	plt.xlabel('Injection order')
+	plt.ylabel('Intensity')
 	sb.scatterplot(x = x_qc, y = y_qc, color = color_qc, marker = marker_qc)
 	sb.scatterplot(x = x_sample, y= y_sample, color = color_sample, marker= marker_sample)
 	plt.legend(['QC', 'Samples'], loc = 'best')
