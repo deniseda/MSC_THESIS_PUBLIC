@@ -1,0 +1,5 @@
+(Cyclohexylmethyl)pyrazine
+3alpha,4,7,7alpha-Tetrahydro-1H-isoindole-1,3(2H)-dione
+Bilirubin
+LysoPC(18:3(6Z,9Z,12Z))
+LysoPE(15:0/0:0)
